@@ -1,0 +1,401 @@
+SID,St_Name,Father_Name,Gender,Address,Date of Birth,Reg Date,Reg Status,Degree Status,Last Degree
+800,Zaran Haqq,Annan Yusaf Haqq,0,h# 978 Street No.72  Karnianwala Kabirwala,5-Jan-76,13-Aug-96,A,C,A-Level
+801,Maha Paracha,Aga Zulqur nain Paracha,1,House # 293 st. # 67  Karimabad Shekhopura,7-Oct-76,16-Aug-96,A,C,FSc
+802,Ali Ansary,Sahibzada Ikram Ansary,0,H# 607 st. # 62  Karkhana road Melsi,7-Oct-76,19-Aug-96,A,C,A-Level
+803,Farooq Moeen,Moeen Faizan,0,house #  154 S#  26 Shehar bazar D.I. Khan,10-Jun-76,22-Aug-96,A,C,FSc
+804,Abdul Hannan Shabir,Shabir Moeen,0,House No. 469 Street #  21 Ramzania Gujrat,10-Mar-78,26-Aug-96,A,C,F.Sc.
+805,Shams-ul-Islam Laghari,Abdur Rasheed Laghari,0,Ho. #  783 Street #  16 Bara bazar Faisalabad,12-Mar-78,29-Aug-96,A,C,Fsc
+806,Tayyaba Annan Saleem Bhatti,Annan Saleem Bhatti,1,house no. 98 s#  79 Jamia masjid chowk Sahiwal,14-Dec-78,3-Aug-96,A,C,F.Sc.
+807,Sahibzada Arif Satti,Momd. Rohail Satti,0,ho. #  644 St. no. 75 Mitthian Kabirwala,14-Aug-78,6-Aug-96,A,C,Fsc
+808,Abdul Wasay Emmad Pasha,Sheikh Asif Pasha,0,Ho. No. 959 St. no. 70 Shuakat coloney Abdul Hakim,16-Aug-77,10-Aug-96,A,C,A level
+809,Alina Talha,Talha Siraj,1,H No.274 S No.65  Mutian wala D.G. Khan,17-May-77,13-Aug-96,A,C,HSSC
+810,Sonil Nadeem Pasha,Ejaz Pasha,0,Ho. no.820 Street No.29  Hamdarad road Dera Ismail Khan,19-Jan-77,16-Aug-96,A,C,A level
+811,Hafiz Ismail Abbasi,Sahir Zarar Abbasi,0,h# 135 St. No.24  Dak ghar LalaMusa,19-Feb-76,20-Aug-96,A,C,A-Level
+812,Hajira Durrani,Ghani Shaukat Durrani,1,House # 449 st. # 19  Cement factory coloney Sialkot,21-Oct-76,23-Aug-96,A,C,FSc
+813,Aga Mustansar Abbasi,Mouhammed Tahir Abbasi,0,H# 996 S# 15   Bhawalpur,21-Jun-76,26-Aug-96,A,C,A-Level
+814,Abdul Ahad Zafar,Zafar Suleman,,house # 310 street no.78  Akbar masjid Jehlum,23-Jul-76,29-Aug-96,A,C,FSc
+815,Pervaiz Muneer,Muneer Bashir,0,House No. 625 Street #  73 Bakra mandi Bahawalpur,24-Mar-78,4-Aug-96,A,C,F.Sc.
+816,Chodhary Amjad Gondal,Baqir Gondal,0,Ho. #  172 s#  69 Jalabad Dera ghazi khan,26-Dec-78,7-Aug-96,A,C,Fsc
+817,Zareen Bhatti,Zubair Najam Bhatti,1,house no. 486 s#  64 Sherazia coloney Multan,28-Dec-78,10-Aug-96,A,C,F.Sc.
+818,Sohail Satti,Momd. Azmat Satti,0,ho. #  801 St. no. 27 Kachi abadi LalaMusa,28-Aug-78,13-Aug-96,A,C,Fsc
+819,Rafi Immad Haqqie,Syed Qutab Haqqie,0,Ho. No. 347 S No. 23 Pakistan hostel Sargodha,1-May-77,17-Aug-96,A,C,A level
+820,Riffat Nadeem,Nadeem Abdur Rahman,1,H No. 662 S No. 18 Dhamiyal Pindi Bhatian,1-May-77,20-Aug-96,A,C,HSSC
+821,Yaseen Zaran Chohan,Kaleem Chohan,0,Ho. no.976 St. No.81  Dehri Kharian,4-Feb-77,23-Aug-96,A,C,A level
+822,Ibraheem Shah,Sohail Jamal Shah,0,h no.523 st. # 77  Park road Bahawalpur,4-Oct-77,26-Aug-96,A,C,HSSC
+823,Rizwana Abdul Jabbar Ramzan Durrani,Abdul Jabbar Ramzan Durrani,1,House # 838 s no.72  Cantt. road D.I. Khan,6-Nov-76,1-Aug-96,A,C,FSc
+824,Salim Jaffery,Chodhary Faizan Jaffery,0,H# 152 street no.67  Landi Gujrawala,6-Jul-76,4-Aug-96,A,C,A-Level
+825,Abdul Najeeb Amjad,Amjad Adil,0,house # 467 Street # 30  Taj abad Wazirabad,8-Mar-76,7-Aug-96,A,C,FSc
+826,Saalia Ansari,Abdur Rasheed Ansari,1,h# 13 St. # 26  Nizam pur Sargodha,8-Apr-76,10-Aug-96,A,C,A-Level
+827,Jabir Umer Gondal,Karam Illahi Gondal,0,Ho. #  328 s#  21 Jalsa gha Kabirwala,11-Dec-78,14-Aug-96,A,C,Fsc
+828,Nida Ansari,Zamir Abdul Malik Ansari,1,house no. 642 street #  16 Karnianwala Shekhopura,13-Sep-78,17-Aug-96,A,C,F.Sc.
+829,Obaid Muzammil Sehti,Shk. Bakht Sehti,0,ho. #  189 street #  80 Karimabad Melsi,13-Sep-78,20-Aug-96,A,C,Fsc
+830,Rana Shabi Haqqie,Momd. Siraj Haqqie,0,Ho. No. 504 S No. 75 Factory road Dera Ismail Khan,15-May-77,24-Aug-96,A,C,A level
+831,Nazma Naeem,Naeem Iffan,1,H No. 818 St. No. 70 Garrizon Gujrat,15-Feb-77,27-Aug-96,A,C,HSSC
+832,Ghani Chohan,Sahir Chohan,0,Ho. no.365 St. No.66  Ramzania Faisalabad,18-Feb-77,1-Aug-96,A,C,A level
+833,Abdus Sammi Asif Baig,Zakir Ubaid Baig,0,h no.679 s no.29  Bara bazar Sahiwal,18-Nov-77,4-Aug-96,A,C,HSSC
+834,Batool Chatta,Javed Adul Qudoos Chatta,1,House # 994 street no.24  Bara qabrustan Jehlum,20-Jul-76,8-Aug-96,A,C,FSc
+835,Zabir Jaffery,Rana Muneer Jaffery,0,H# 540 street no.20  Niazi town Abdul Hakim,20-Jul-76,11-Aug-96,A,C,A-Level
+836,Kashif Azhar,Azhar Imtiaz,0,house # 855 St. # 83  Shuakat coloney D.G. Khan,22-Apr-76,14-Aug-96,A,C,FSc
+837,Hira Jaffery,Baqir Jaffery,1,h# 170 s# 78  Mutian wala Dera Ismail Khan,22-Dec-76,17-Aug-96,A,C,A-Level
+838,Husain Khattak,Kashif Khattak,0,Ho. #  716 Street No. 74 Buliyan wali LalaMusa,25-Jan-78,21-Aug-96,A,C,Fsc
+839,Umaima Minhas,Barkat Ajmal Minhas,1,house no. 31 street #  69 Dak ghar Sialkot,27-Sep-78,24-Aug-96,A,C,F.Sc.
+840,Choudhary Tipu Khattak,Raja Yosaf Khattak,0,ho. #  345 S No. 32 Cement factory coloney Bhawalpur,27-May-78,27-Aug-96,A,C,Fsc
+841,Asif Sharif,Sharif Abdur Rahman,0,House No. 660 S#  27  Jehlum,29-Jun-78,1-Aug-96,A,C,F.Sc.
+842,Babra Munir,Munir Kamal,1,H No. 206 St. No. 23 Mujahid block Bahawalpur,9-Feb-77,5-Aug-96,A,C,HSSC
+843,Mohammed Zamir Haq,Sohail Haq,0,Ho. no. 521 s no. 18 Bakra mandi Dera ghazi khan,2-Nov-77,8-Aug-96,A,C,A level
+844,Abdul Wasay Ibraheem Sehti,Abdul Jabbar Jabir Sehti,0,h no.836 s no.81  Jalabad Multan,3-Nov-77,11-Aug-96,A,C,HSSC
+845,Tamania Chatta,Sharif Fakhar Chatta,1,House # 382 street no.77  Kamra chowk Wazirabad,5-Jul-76,15-Aug-96,A,C,FSc
+846,Sameer Sultan Kiyyani,Hafiz AAdil Kiyyani,0,H# 697 St. # 72  Lohi pura Sargodha,5-Apr-76,18-Aug-96,A,C,A-Level
+847,Shan Arsalan,Arsalan Salim,0,house # 11 St. # 67  Pakistan hostel Pindi Bhatian,7-Apr-76,21-Aug-96,A,C,FSc
+848,Fazila Karam Illahi Kazmi,Karam Illahi Kazmi,1,h# 558 Street No.31  Dhamiyal Kharian,7-Jan-76,24-Aug-96,A,C,A-Level
+849,Rahmat Khan,Umer Khan,0,Ho. # 872 street # 26  Khumar road Melsi,9-Sep-78,28-Aug-96,A,C,Fsc
+850,Khushbakht Bakht Jibran Kazmi,Bakht Jibran Kazmi,1,house no. 187 street #  21 Hospital road D.I. Khan,12-Sep-78,2-Aug-96,A,C,F.Sc.
+851,Syyed Abdur Rahman Niazi,Mohammed Osman Niazi,0,ho. #  734 S#  17 Cantt. road Gujrawala,12-Jun-78,5-Aug-96,A,C,Fsc
+852,Zakir Saaleh,Saaleh Pervaiz,0,House No. 48 St. No. 80 Landi Wazirabad,14-Feb-78,8-Aug-96,A,C,F.Sc.
+853,Sumiyya Shams-ul-Islam,Shams-ul-Islam Abdul Basit,1,H No. 363 Street #  75 Bhatta Sahiwal,14-Mar-77,12-Aug-96,A,C,HSSC
+854,Syyed Shabi Sherazi,Mahtab Sherazi,0,Ho. no. 909 s no. 71 Shakrial Kabirwala,16-Nov-77,15-Aug-96,A,C,A level
+855,Zabir Abdul Wasay Zaidi,Arsalan Khalid Zaidi,0,h no. 224 St. no. 34 Jalsa gha Shekhopura,16-Aug-77,18-Aug-96,A,C,HSSC
+856,Rehana Khanzada,Osman Jan Khanzada,1,Ho. No.538 St. no.29  Karnianwala Melsi,19-Aug-77,21-Aug-96,A,C,A level
+857,Sana Ullah Zaran Usmani,Sahibzada Baber Usmani,0,H# 85 St. # 24  Noorpur Dera Ismail Khan,19-Apr-76,25-Aug-96,A,C,A-Level
+858,Sarwar Farooq,Farooq Abdul Qadeer,0,house # 400 Street No.20  Factory road Gujrat,21-Jan-76,28-Aug-96,A,C,FSc
+859,Salma Hussaini,Haroon Hussaini,1,h# 714 Street No.83  Garrizon Faisalabad,21-Jan-76,2-Aug-96,A,C,A-Level
+860,Shaukat Ismaili,Javed Ismaili,0,Ho. # 29 st. # 78  Nai abadi Bhawalpur,23-Oct-78,6-Aug-96,A,C,Fsc
+861,Noor Jahan Uhad Haroon Hussaini,Uhad Haroon Hussaini,1,house no.575 S# 74  Pind dadu Jehlum,25-Jun-78,9-Aug-96,A,C,F.Sc.
+862,Aqeel Haque,Syyed Danish Haque,0,ho. #  890 St. No. 69 Bara qabrustan Abdul Hakim,26-Feb-78,12-Aug-96,A,C,Fsc
+863,Hamid Paracha,Sheikh Inayyat Paracha,0,House No. 205 Street #  32 Niazi town D.G. Khan,28-Mar-78,15-Aug-96,A,C,F.Sc.
+864,Nusrat Shams,Shams Muslim,1,H No. 751 s no. 28 Haider road Multan,28-Nov-77,19-Aug-96,A,C,HSSC
+865,Raja Mujeeb Sherazi,Sana Ullah Sherazi,0,Ho. no. 66 St. no. 23 Khasra LalaMusa,1-Aug-77,22-Aug-96,A,C,A level
+866,Rana Qasim Zaidi,Nazeer Sameer Zaidi,0,h no. 380 St. no. 18 Buliyan wali Sialkot,1-Aug-77,25-Aug-96,A,C,HSSC
+867,Riffat Tipo Qamar Butt,Tipo Qamar Butt,1,Ho. No.927 St. # 82  Dak ghar Bhawalpur,4-Apr-77,28-Aug-96,A,C,A level
+868,Sheik Azmat Usmani,M. Shan Usmani,0,H# 241 Street No.77  Farooqia Kharian,4-Jan-76,3-Aug-96,A,C,A-Level
+869,Jamal Shehzad,Shehzad Hamid,0,house # 556 Street No.72  Chandi bazar Bahawalpur,6-Jan-76,6-Aug-96,A,C,FSc
+870,Saba Alam Usmani,Alam Usmani,1,h# 103 st. # 36  Mujahid block Dera ghazi khan,6-Oct-76,9-Aug-96,A,C,A-Level
+871,Choudhary Viqar Laghari,Sameer Laghari,0,House # 417 S# 31  Bakra mandi Multan,8-Jun-76,12-Aug-96,A,C,FSc
+872,Mounazza Bhatti,Haseeb Abdullah Bhatti,1,house no.732 S# 26  Odean chowk Wazirabad,10-Jun-78,16-Aug-96,A,C,F.Sc.
+873,Abdul kareem Laghari,Momd. Shakeel Laghari,0,ho. #  278 Street #  22 Kamra chowk Sargodha,11-Mar-78,19-Aug-96,A,C,Fsc
+874,Ghulam Yasin Uhad,Uhad Khurram,0,House No. 593 s no. 85 Lohi pura Pindi Bhatian,13-Nov-78,22-Aug-96,A,C,F.Sc.
+875,Bano Abu Bakr,Abu Bakr Nazir,1,H No. 907 s#  80 Chand mari Shekhopura,13-Dec-77,26-Aug-96,A,C,HSSC
+876,Kamran Jamil Pasha,Farooq Pasha,0,Ho. no. 454 St. no. 75 Basti Melsi,15-Aug-77,29-Aug-96,A,C,A level
+877,Athar Abbasi,Safi Nazir Abbasi,0,h no. 769 St. #  71 Khumar road D.I. Khan,15-Apr-77,3-Aug-96,A,C,HSSC
+878,Sibqat Butt,Baber Abdur Rasheed Butt,1,Ho. No. 83 S No. 34 Hospital road Gujrawala,17-May-77,6-Aug-96,A,C,A level
+879,Murtaza Abbasi,Chodhary Abdus Sammi Abbasi,0,H# 398 Street No.29  City Road Faisalabad,18-Jan-76,10-Aug-96,A,C,A-Level
+880,Abdul Mujeeb Nazeer,Nazeer Haroon,0,house # 944 st. # 25  Kusar coloney Sahiwal,20-Oct-76,13-Aug-96,A,C,FSc
+881,Bushra Ansary,Shams-ul-Islam Ansary,1,h# 259 st. # 20  Bhatta Kabirwala,20-Oct-76,16-Aug-96,A,C,A-Level
+882,Chodhary Islam Gondal,Arman Gondal,0,House # 573 S# 83  Shakrial Shekhopura,22-Jun-76,19-Aug-96,A,C,FSc
+883,Roshan Bhatti,Kishwar Zarar Bhatti,1,house no.120 Street # 79  Eid gha D.G. Khan,24-Mar-78,23-Aug-96,A,C,F.Sc.
+884,Zakir Arif Satti,Sh. Ehsan Satti,0,ho. # 435 Street # 74  Sihaal Dera Ismail Khan,24-Mar-78,26-Aug-96,A,C,Fsc
+885,Rehmat Abdul Malik,Abdul Malik Muslim,0,House No. 749 s#  37 Noorpur Gujrat,27-Dec-78,29-Aug-96,A,C,F.Sc.
+886,Annum Sameer,Sameer Amjad,1,Ho. #  296 St. no. 33 Factory road Faisalabad,27-Aug-78,3-Aug-96,A,C,Fsc
+887,Anwar Chohan,Nazar Chohan,0,Ho. no. 610 street #  28 Malik abad Bhawalpur,29-Sep-77,7-Aug-96,A,C,A level
+888,Shuja Shah,Usman Asif Shah,0,h no. 925 S No. 23 Nai abadi Jehlum,29-May-77,10-Aug-96,A,C,HSSC
+889,Qirat Chohan,Agha Jan Chohan,1,Ho. No. 471 Street No. 87 Pind dadu Abdul Hakim,2-Jan-77,13-Aug-96,A,C,A level
+890,Inayyat Islam Abbasi,Nawabzada Mudassir Abbasi,0,H No. 786 St. No. 82 Bara qabrustan D.G. Khan,2-Feb-77,16-Aug-96,A,C,HSSC
+891,Nadeem Shakir,Shakir Alam,0,house # 101 st. # 77  Daniyaal town Multan,5-Oct-76,20-Aug-96,A,C,FSc
+892,Sunera Abbasi,Qasim Abbasi,1,h# 647 street no.72  Haider road LalaMusa,5-Jul-76,23-Aug-96,A,C,A-Level
+893,Qasim Yawar Gondal,Mujeeb Gondal,0,House # 962 street no.36  Khasra Sialkot,7-Jul-76,26-Aug-96,A,C,FSc
+894,Mahjabeen Ansari,Mustansar Kamal Ansari,1,house no.276 Street # 31  Doley shah Pindi Bhatian,9-Mar-78,1-Aug-96,A,C,F.Sc.
+895,Mirza Ghulam Yasin Gondal,Raja Shujaat Gondal,0,ho. # 591 s# 26  Railway line Kharian,9-Dec-78,4-Aug-96,A,C,Fsc
+896,Imran Adil,Adil Nazir,0,House No.137 s# 22  Farooqia Bahawalpur,11-Dec-78,7-Aug-96,A,C,F.Sc.
+897,Rahat Hayyat,Hayyat Amjad,1,Ho. #  452 street #  85 Chandi bazar Dera ghazi khan,12-Sep-78,10-Aug-96,A,C,Fsc
+898,Syyed Ghazi Haqqie,Safi Haqqie,0,Ho. no. 767 S No. 80 Saidpur road Gujrawala,14-May-77,14-Aug-96,A,C,A level
+899,Chodhary Mudassir Baig,Zulqur nain Ghani Baig,0,h no. 313 S No. 76 Chittian hattian Wazirabad,14-May-77,17-Aug-96,A,C,HSSC
+900,Noor-ul-Ain Chohan,Rana Sammi Chohan,1,Ho. No. 628 St. No. 39 Odean chowk Sargodha,16-Feb-77,20-Aug-96,A,C,A level
+901,Rahmat Amjad Baig,Mouhammed Mekail Baig,0,H No. 942 st. #  34 Kamra chowk Pindi Bhatian,16-Oct-77,23-Aug-96,A,C,HSSC
+902,Munir Abuzar,Abuzar Shams-ul-Islam,0,house # 489 s no.30  Mitran walia Shekhopura,19-Nov-76,27-Aug-96,A,C,FSc
+903,Samra Akmal Jaffery,Akmal Jaffery,1,h# 803 street no.25  Chand mari Melsi,19-Jul-76,1-Aug-96,A,C,A-Level
+904,Muazzam Khan,Kishwar Ghazanfar Khan,0,House # 118 Street # 88  Basti D.I. Khan,21-Mar-76,4-Aug-96,A,C,FSc
+905,Farooq Zakir Ansari,Abdullah Abdul Najeeb Ansari,0,H# 665 St. # 84  Khumar road Gujrawala,23-Apr-76,7-Aug-96,A,C,A-Level
+906,Atif Khattak,Mouhammad Nabeel Khattak,0,ho. # 979 s# 79  Purani Taal Faisalabad,23-Dec-78,11-Aug-96,A,C,Fsc
+907,Mazhar Yousaf,Yousaf Amjad,0,House No.294 street # 74  City Road Sahiwal,25-Sep-78,14-Aug-96,A,C,F.Sc.
+908,Zinat Abdul Suleh,Abdul Suleh Osama,1,Ho. #  840 street #  38 Kusar coloney Kabirwala,26-Sep-78,17-Aug-96,A,C,Fsc
+909,Asfar Kiyyani,Ghulam Mustafa Kiyyani,0,Ho. no. 155 S No. 33 Illyas abad Abdul Hakim,28-May-77,21-Aug-96,A,C,A level
+910,Anayyat Shahzor Qureshi,Abdullah Junaid Qureshi,0,h no. 470 St. No. 28 Bunkhar gali D.G. Khan,28-Feb-77,24-Aug-96,A,C,HSSC
+911,Aliya Kazmi,Nabeel Badar Kazmi,1,Ho. No. 16 St. No. 23 Eid gha Dera Ismail Khan,1-Feb-77,27-Aug-96,A,C,A level
+912,Abdur Raziq Rahat Qureshi,Mirza Bashir Qureshi,0,H No. 331 s no. 87 Sihaal Gujrat,1-Nov-77,1-Aug-96,A,C,HSSC
+913,Zaran Osman,Osman Hussain,0,house #  645 street no. 82 Lakhan Sialkot,3-Jul-76,5-Aug-96,A,C,FSc
+914,Syyeda Zarar Niazi,Zarar Niazi,1,h# 960 street no.77  College road Bhawalpur,4-Jul-76,8-Aug-96,A,C,A-Level
+915,Barkat Ismaili,Mustafa Ismaili,0,House # 506 St. # 73  Malik abad Jehlum,6-Apr-76,11-Aug-96,A,C,FSc
+916,Adnan Shariq Awan,Qutab Firdous Awan,0,H# 821 s# 36  Nai abadi Abdul Hakim,8-Dec-76,14-Aug-96,A,C,A-Level
+917,Ch. AAdil Haqq,Aga Naeem Haqq,0,ho. # 136 Street No.31  Karki Dera ghazi khan,8-Jan-78,18-Aug-96,A,C,Fsc
+918,Saaleh Zafar,Zafar Kaleem,0,House No.682 street # 27  Koral Multan,10-Sep-78,21-Aug-96,A,C,F.Sc.
+919,Uzma Arman,Arman Masroor,1,Ho. # 997 S# 90  Daniyaal town LalaMusa,10-Jun-78,24-Aug-96,A,C,Fsc
+920,Syyed Najam Sherazi,Ikram Sherazi,0,house no. 311 S#  85 Haider road Sialkot,13-Jun-78,27-Aug-96,A,C,F.Sc.
+921,Hafiz Rahmat Namani,Ghazanfar Yasin Namani,0,h no. 858 St. No. 81 Byaar Pindi Bhatian,13-Feb-77,2-Aug-96,A,C,HSSC
+922,Nadia Sahibzada Moeen Khanzada,Sahibzada Moeen Khanzada,1,Ho. No. 172 s no. 76 Doley shah Kharian,15-Nov-77,5-Aug-96,A,C,A level
+923,Aga Farooq Qureshi,Mohammed Abdur Rasheed Qureshi,0,H No. 487 street no. 39 Railway line Bahawalpur,15-Jul-77,8-Aug-96,A,C,HSSC
+924,Umer Islam,Islam Abdul Hannan,0,house #  34 St. no. 35 Chan chirag D.I. Khan,17-Aug-76,12-Aug-96,A,C,FSc
+925,Rohi Zamir Hussaini,Zamir Hussaini,1,h#  348 St. #  30 Kotlia Gujrawala,17-Apr-76,15-Aug-96,A,C,A-Level
+926,Shahid Ismaili,Asif Ismaili,0,House # 663 s# 25  Saidpur road Wazirabad,20-Dec-76,18-Aug-96,A,C,FSc
+927,Momd. Gul Hussaini,Siraj Khalid Hussaini,0,H# 209 Street No.88  Chittian hattian Sargodha,22-Jan-76,21-Aug-96,A,C,A-Level
+928,Masood Haqq,Muhammad Ejaz Haqq,0,ho. # 524 street # 84  Surahi bazar Kabirwala,22-Sep-78,25-Aug-96,A,C,Fsc
+929,Yosaf Bashir,Bashir Sahir,0,House No.838 S# 79  Farman block Shekhopura,24-Jun-78,28-Aug-96,A,C,F.Sc.
+930,Hala Abdur Rahim,Abdur Rahim Kabir,1,Ho. # 385 S# 74  Mitran walia Melsi,24-Jun-78,2-Aug-96,A,C,Fsc
+931,Haseeb Annan Sherazi,Shariq Sherazi,0,house no.700 St. No.38  Chand mari D.I. Khan,26-Feb-78,5-Aug-96,A,C,F.Sc.
+932,Akmal Zaidi,Nabeel Rahmat Zaidi,0,h no. 14 s no. 33 Ghosia masjid chwok Gujrat,27-Nov-77,9-Aug-96,A,C,HSSC
+933,Malika Sherazi,Mouhammed Bashir Sherazi,1,Ho. No. 329 s no. 28 Kamalia Faisalabad,29-Nov-77,12-Aug-96,A,C,A level
+934,Ahmed Zaidi,Ch. Baqir Zaidi,0,H No. 875 St. no. 92 Purani Taal Sahiwal,29-Aug-77,15-Aug-96,A,C,HSSC
+935,Abdus Sammi Abdul Haseeb,Abdul Haseeb Zubair,0,Ho. no. 190 St. #  87 City Road Kabirwala,2-Apr-77,18-Aug-96,A,C,A level
+936,Mahjabeen Usmani,Barkat Usmani,1,h#  504 St. #  82 Kumria Abdul Hakim,2-Apr-76,22-Aug-96,A,C,A-Level
+937,Iffan Osman Kharasani,Farzan Emmad Kharasani,0,House # 51 Street No.78  Illyas abad D.G. Khan,5-Jan-76,25-Aug-96,A,C,FSc
+938,Saaleh Hussaini,Abdur Rahman Rayyan Hussaini,0,H# 366 street # 41  Bunkhar gali Dera Ismail Khan,7-Sep-76,28-Aug-96,A,C,A-Level
+939,Amber Sheikh Kaleem Laghari,Sheikh Kaleem Laghari,1,house # 680 st. # 36  Eid gha Gujrat,7-Oct-76,2-Aug-96,A,C,FSc
+940,Tufail Azhar,Azhar Sohail,0,House No.227 S# 32  Muzafar shah Sialkot,9-Jun-78,6-Aug-96,A,C,F.Sc.
+941,Jaleela AAdil,AAdil Yaar Muhammad,1,Ho. # 541 St. No.27  Lakhan Bhawalpur,9-Feb-78,9-Aug-96,A,C,Fsc
+942,Usman Pasha,Zaran Pasha,0,house no.856 Street # 90  College road Jehlum,11-Mar-78,12-Aug-96,A,C,F.Sc.
+943,Asfar Shazil Haque,Wajid Rai Haque,0,h no. 402 s no. 85 Mandi Bahawalpur,12-Nov-77,16-Aug-96,A,C,HSSC
+944,Atra Butt,Mouhammed Abdur Rasheed Butt,1,Ho. No. 717 St. no. 81 Purana shehar Dera ghazi khan,14-Aug-77,19-Aug-96,A,C,A level
+945,Amer Zaidi,Sahibzada Karam Illahi Zaidi,0,H No. 32 St. no. 76 Karki Multan,14-Aug-77,22-Aug-96,A,C,HSSC
+946,Ghulam Yasin Nazir,Nazir Zamir,0,Ho. no. 578 St. #  39 Koral LalaMusa,16-Apr-77,25-Aug-96,A,C,A level
+947,Babra Ansary,Bakht Ansary,1,h#  893 Street No. 35 Afangi block Sargodha,16-Jan-76,29-Aug-96,A,C,A-Level
+948,Raja Tabraiz Kharasani,Talha Sageer Kharasani,0,House #  207 Street No. 30 Saat meel Pindi Bhatian,18-Jan-76,3-Aug-96,A,C,FSc
+949,Arshad Ansary,Iffan Mahtab Ansary,0,H# 522 st. # 93  Byaar Kharian,21-Oct-76,6-Aug-96,A,C,A-Level
+950,Sadia Laghari,Syed Sahir Laghari,1,house # 68 S# 89  Doley shah Bahawalpur,21-Jun-76,9-Aug-96,A,C,FSc
+951,Shujaat Amjad,Amjad Zakir,0,House No.383 street no.84  kurang nala D.I. Khan,23-Jul-78,13-Aug-96,A,C,F.Sc.
+952,Sajida Satti,Shariq Satti,1,Ho. # 698 Street # 79  Chan chirag Gujrawala,23-Mar-78,16-Aug-96,A,C,Fsc
+953,Kishwar Pasha,Muneer Pasha,0,house no.244 s no.43  Kotlia Wazirabad,25-Nov-78,19-Aug-96,A,C,F.Sc.
+954,Nawabzada Ajmal Shah,Rai Yousaf Shah,0,ho. # 559 s# 38  Saidpur road Sargodha,25-Dec-78,22-Aug-96,A,C,Fsc
+955,Rukshanda Pasha,Chodhary Baqir Pasha,1,Ho. No. 873 St. no. 33 Jaamia Masjid road Kabirwala,28-Aug-77,26-Aug-96,A,C,A level
+956,Yawar Rai,Rai Kashif,0,H No. 420 S No. 29 Surahi bazar Shekhopura,28-May-77,29-Aug-96,A,C,HSSC
+957,Rehmat Ejaz,Ejaz Barkat,0,Ho. no. 735 S No. 92 Farman block Melsi,1-May-77,3-Aug-96,A,C,A level
+958,Rehana Abbasi,Yosaf Abbasi,1,h#  49 Street No. 87 Sukkhan abad Dera Ismail Khan,1-Jan-76,7-Aug-96,A,C,A-Level
+959,Arsalan Gondal,Abdul Haseeb Pervaiz Gondal,0,House #  596 st. #  83 Deinga Gujrat,3-Oct-76,10-Aug-96,A,C,FSc
+960,Jibran Aun Ansary,Rahid Sammi Ansary,0,H#  910 st. #  78 Ghosia masjid chwok Faisalabad,5-Oct-76,13-Aug-96,A,C,A-Level
+961,Qurat-ul-Ain Muamar Ghazanfar Sehti,Muamar Ghazanfar Sehti,1,house # 225 street no.41  Kamalia Sahiwal,6-Jul-76,16-Aug-96,A,C,FSc
+962,Mohammad Zarar Chohan,Hafiz Rizwan Chohan,0,House No.771 Street # 36  Zikria Jehlum,8-Mar-78,20-Aug-96,A,C,F.Sc.
+963,Aneela Tabraiz,Tabraiz Sana Ullah,1,Ho. # 86 Street # 32  Darian Abdul Hakim,8-Mar-78,23-Aug-96,A,C,Fsc
+964,Zafar Qasim,Qasim Yosaf,0,house no.401 s# 95  Kumria D.G. Khan,10-Dec-78,26-Aug-96,A,C,F.Sc.
+965,Muneer Jaffery,Tipo Jaffery,0,ho. # 947 St. no.90  Illyas abad Dera Ismail Khan,10-Aug-78,29-Aug-96,A,C,Fsc
+966,Kaneez Khan,Rahid Amjad Khan,1,Ho. No.262 street # 86  post office LalaMusa,12-Sep-77,4-Aug-96,A,C,A level
+967,Ahsan Jaffery,Choudhary Hamid Jaffery,0,H No. 576 S No. 81 Biyaal Sialkot,13-May-77,7-Aug-96,A,C,HSSC
+968,Kamal Amer Khattak,Raja Jabbar Khattak,0,Ho. no. 891 Street No. 44 Muzafar shah Bhawalpur,15-Jan-77,10-Aug-96,A,C,A level
+969,Sadia Ijaz,Ijaz Sharif,1,h no. 437 St. No. 40 Lakhan Jehlum,15-Feb-77,13-Aug-96,A,C,HSSC
+970,Salim Shaukat Khattak,AAdil Khattak,0,House #  752 st. #  35 Shehar bazar Bahawalpur,17-Oct-76,17-Aug-96,A,C,FSc
+971,Mirza Abdul Jabbar Haq,Anwer Zil-e-Ali Haq,0,H#  67 street no. 30 Mandi Dera ghazi khan,19-Jul-76,20-Aug-96,A,C,A-Level
+972,Maira Karam Zamir Sehti,Karam Zamir Sehti,1,house # 613 street no.94  Purana shehar Multan,20-Jul-76,23-Aug-96,A,C,FSc
+973,Salman Haq,Aga Mahtab Haq,0,House No.928 Street # 89  Jamia masjid chowk Wazirabad,22-Mar-78,27-Aug-96,A,C,F.Sc.
+974,Aneesa Abdul Najeeb,Abdul Najeeb Farooq,1,Ho. # 242 s# 84  Mitthian Sargodha,22-Dec-78,1-Aug-96,A,C,Fsc
+975,Masud Rai,Rai Osman,0,house no.789 s# 80  Afangi block Pindi Bhatian,24-Dec-78,4-Aug-96,A,C,F.Sc.
+976,Hafiz Talha Kiyyani,Baber Kiyyani,0,ho. # 103 street # 43  Saat meel Kharian,24-Sep-78,7-Aug-96,A,C,Fsc
+977,Iqra Khan,Abdul Qadeer Qutab Khan,1,Ho. No.418 S No.38  Hamdarad road Melsi,26-May-77,11-Aug-96,A,C,A level
+978,Shahroze Kazmi,Choudhary Haroon Kazmi,0,H No. 965 S#  33 Shah malung D.I. Khan,27-Jun-77,14-Aug-96,A,C,HSSC
+979,Mohammad Firdous Qureshi,Mohammed Shahid Qureshi,0,Ho. no. 279 St. No. 29 kurang nala Gujrawala,19-Feb-77,17-Aug-96,A,C,A level
+980,Fareeha Abuzar,Abuzar Arman,1,h no. 594 st. #  92 Chan chirag Wazirabad,29-Oct-77,20-Aug-96,A,C,HSSC
+981,Shan Shariq Niazi,Furqan Niazi,0,House #  140 s no. 87 Akbar masjid Sahiwal,2-Nov-76,24-Aug-96,A,C,FSc
+982,Akram Minhas,Inayyat Shams-ul-Islam Minhas,0,H#  455 street no. 83 Main workshop Kabirwala,4-Jul-76,27-Aug-96,A,C,A-Level
+983,Rida Niazi,Rizwan Abdul Basit Niazi,1,house #  769 St. #  46 Jaamia Masjid road Shekhopura,4-Apr-76,1-Aug-96,A,C,FSc
+984,Furqan Haqq,Mohammad Sana Ullah Haqq,0,h# 316 St. # 41  Surahi bazar Melsi,7-Apr-76,4-Aug-96,A,C,A-Level
+985,Amra Nazar,Nazar Nazar,1,Ho. # 631 s# 37  Kachi abadi Dera Ismail Khan,7-Dec-78,8-Aug-96,A,C,Fsc
+986,Malik Haqq,Tipu Haqq,0,house no.945 street # 32  Sukkhan abad Gujrat,9-Sep-78,11-Aug-96,A,C,F.Sc.
+987,Najum Rizwan Kiyyani,Shan Kiyyani,0,ho. # 260 S No.95  Deinga Faisalabad,9-May-78,14-Aug-96,A,C,Fsc
+988,Hala Namani,Hamid Abdul Jabbar Namani,1,Ho. No.806 S# 91  Dehri Bhawalpur,11-Jun-77,18-Aug-96,A,C,A level
+989,Choudhary Akmal Kiyyani,Sahibzada Alam Kiyyani,0,H No.121 St. No.86  Park road Jehlum,11-Feb-77,21-Aug-96,A,C,HSSC
+990,Yousaf Qureshi,Choudhary Sameer Qureshi,0,Ho. no. 435 st. #  81 Zikria Abdul Hakim,14-Oct-77,24-Aug-96,A,C,A level
+991,Sadaf Jabir,Jabir Mujeeb,1,h no. 982 s no. 45 Darian D.G. Khan,14-Nov-77,27-Aug-96,A,C,HSSC
+992,Inayyat Qureshi,Emmad-ud-Din Qureshi,0,House #  297 street no. 40 Taj abad Multan,16-Jul-76,2-Aug-96,A,C,FSc
+993,Mouhammed Jan Ismaili,Khurram Suleman Ismaili,0,H#  611 St. #  35 Nizam pur LalaMusa,18-Apr-76,5-Aug-96,A,C,A-Level
+994,Imrana Niazi,Mahtab Danish Niazi,1,house #  158 St. #  30 post office Sialkot,18-Apr-76,8-Aug-96,A,C,FSc
+995,Sabir Annan Ismaili,Sheikh Farooq Ismaili,0,h#  472 s#  94 Biyaal Bhawalpur,20-Dec-76,11-Aug-96,A,C,A-Level
+996,Natalia Sajid,Sajid Safi,1,Ho. # 787 street # 89  Karimabad Kharian,21-Sep-78,15-Aug-96,A,C,Fsc
+997,Choudhary Masud Haqq,Atif Haqq,0,house no.333 street # 84  Karkhana road Bahawalpur,23-Sep-78,18-Aug-96,A,C,F.Sc.
+998,Abdul Najeeb Paracha,Sammi Paracha,0,ho. # 648 S# 48  Shehar bazar Dera ghazi khan,23-Jun-78,21-Aug-96,A,C,Fsc
+999,Kanwal Haroon Farrukh Namani,Haroon Farrukh Namani,1,House No.963 St. No.43  Mandi Multan,25-Feb-78,24-Aug-96,A,C,F.Sc.
+1000,Syyed Qaisar Sherazi,M. Shams-ul-Islam Sherazi,0,H No.509 St. No.38  Bara bazar Wazirabad,25-Feb-77,28-Aug-96,A,C,HSSC
+1001,Daniyal AAdil,AAdil Arman,0,Ho. no.824 s no.34  Jamia masjid chowk Sargodha,27-Nov-77,2-Aug-96,A,C,A level
+1002,Farheen Gul,Gul Kishwar,1,h no. 138 street no. 97 Mitthian Pindi Bhatian,28-Jul-77,5-Aug-96,A,C,HSSC
+1003,Sahibzada Sammi Usmani,Raza Usmani,0,Ho. No. 453 St. no. 92 Afangi block Kharian,1-Aug-77,8-Aug-96,A,C,A level
+1004,Shk. Kamal Khanzada,Muslim Yawar Khanzada,0,H#  0 St. #  88 Mutian wala Melsi,3-Apr-76,12-Aug-96,A,C,A-Level
+1005,Fariha Sh. Sana Ullah Hussaini,Sh. Sana Ullah Hussaini,1,house #  314 s#  83 Hamdarad road D.I. Khan,3-Dec-76,15-Aug-96,A,C,FSc
+1006,Choudhary Shaukat Laghari,Syyed Nazar Laghari,0,h#  629 Street No. 46 Shah malung Gujrawala,5-Jan-76,18-Aug-96,A,C,A-Level
+1007,Amina Osman,Osman Usman,1,Ho. # 175 street # 42  Cement factory coloney Faisalabad,6-Sep-78,22-Aug-96,A,C,Fsc
+1008,Shabir Zamir Haque,Jan Haque,0,house no.490 S# 37   Sahiwal,8-Jun-78,25-Aug-96,A,C,F.Sc.
+1009,Tipo Paracha,Muzammil Paracha,0,ho. # 804 S# 32  Akbar masjid Kabirwala,8-Jun-78,28-Aug-96,A,C,Fsc
+1010,Zunera Haque,Alam Immad Haque,1,House No.351 Street # 96  Main workshop Shekhopura,10-Mar-78,2-Aug-96,A,C,F.Sc.
+1011,Talha Butt,Chodhary Qasim Butt,0,H No.666 s no.91  Jalabad D.G. Khan,10-Nov-77,6-Aug-96,A,C,HSSC
+1012,Rasheed Mazhar,Mazhar Mujeeb,0,Ho. no.980 s no.86  Sherazia coloney Dera Ismail Khan,12-Nov-77,9-Aug-96,A,C,A level
+1013,Firdous Arman,Arman Mustansar,1,h no. 527 St. no. 49 Kachi abadi Gujrat,13-Aug-77,12-Aug-96,A,C,HSSC
+1014,Amer Sahir Usmani,AAmer Usmani,0,Ho. No. 841 St. #  45 Sukkhan abad Faisalabad,15-Apr-77,15-Aug-96,A,C,A level
+1015,Rana Sabir Bhatti,Naeem Momin Bhatti,0,H#  156 S No. 40 Dhamiyal Bhawalpur,15-May-76,19-Aug-96,A,C,A-Level
+1016,Rafia Shah,Jabir Sajid Shah,1,house #  702 Street No. 35 Dehri Jehlum,17-Jan-76,22-Aug-96,A,C,FSc
+1017,Sheik Aftab Chohan,Hafiz Qamar Chohan,0,h#  17 street #  99 Park road Abdul Hakim,19-Sep-76,25-Aug-96,A,C,A-Level
+1018,Osman Zil-e-Ali,Zil-e-Ali Mustansar,0,House #  332 st. #  94 Zikria D.G. Khan,19-Oct-76,28-Aug-96,A,C,FSc
+1019,Mohammed Hameed Durrani,Ghazanfar Durrani,0,house no.878 S# 89  Landi Multan,22-Jun-78,3-Aug-96,A,C,F.Sc.
+1020,Qutab-ud-Din Abbasi,Munir Abbasi,0,ho. # 193 Street # 85  Taj abad LalaMusa,22-Mar-78,6-Aug-96,A,C,Fsc
+1021,Malika Durrani,Tabraiz Saroor Durrani,1,House No.507 Street # 48  Nizam pur Sialkot,24-Mar-78,9-Aug-96,A,C,F.Sc.
+1022,Ghazanfar Ansari,Mouhammad Rafi Ansari,0,H No.822 s no.43  Jalsa gha Pindi Bhatian,24-Nov-77,13-Aug-96,A,C,HSSC
+1023,Abdul Qadir Junaid Gondal,Syed Zulqur nain Gondal,0,Ho. no.368 St. no.39  Karnianwala Kharian,26-Aug-77,16-Aug-96,A,C,A level
+1024,Rashda Jamil,Jamil Sammi,1,h no.683 St. no.34  Karimabad Bahawalpur,26-Aug-77,19-Aug-96,A,C,HSSC
+1025,Mirza Rasheed Satti,Abdul Ahad Satti,0,Ho. No. 998 S No. 97 Karkhana road Dera ghazi khan,29-May-77,22-Aug-96,A,C,A level
+1026,Shams Haqqie,Ejaz Muazzam Haqqie,0,H#  544 Street No. 93 Garrizon Gujrawala,29-Jan-76,26-Aug-96,A,C,A-Level
+1027,Sualeha Sehti,Osama Munir Sehti,1,house #  859 Street No. 88 Ramzania Wazirabad,2-Jan-76,29-Aug-96,A,C,FSc
+1028,Rohail Haqqie,Agha Kabir Haqqie,0,h#  173 st. #  51 Bara bazar Sargodha,4-Oct-76,3-Aug-96,A,C,A-Level
+1029,Shams-ul-Islam Sultan,Sultan Abdullah,0,House #  720 S#  46 Jamia masjid chowk Pindi Bhatian,4-Jun-76,6-Aug-96,A,C,FSc
+1030,Kashif Abdul Najeeb Chohan,Nabeel Chohan,0,house no. 34 street no. 42 Niazi town Shekhopura,6-Jul-78,10-Aug-96,A,C,F.Sc.
+1031,M. Nabeel Baig,Saaleh Baig,0,ho. # 349 Street # 37  Shuakat coloney Melsi,7-Mar-78,13-Aug-96,A,C,Fsc
+1032,Atra Durrani,Hussain Rashid Durrani,1,House No.896 s no.0  Mutian wala D.I. Khan,9-Nov-78,16-Aug-96,A,C,F.Sc.
+1033,Farrukh Aslam Jaffery,Choudhary Kamran Jaffery,0,Ho. # 210 s# 96  Hamdarad road Gujrawala,9-Dec-78,19-Aug-96,A,C,Fsc
+1034,AAdil Rai,Rai Qudoos,0,Ho. no.525 St. no.91  Dak ghar Faisalabad,11-Aug-77,23-Aug-96,A,C,A level
+1035,Fariha Affan,Affan Muzammil,1,h no.71 S No.86  Cement factory coloney Sahiwal,11-May-77,26-Aug-96,A,C,HSSC
+1036,Saleem Islam Khattak,Naeem Khattak,0,Ho. No.386 S No.50   Kabirwala,13-May-77,29-Aug-96,A,C,A level
+1037,Javed Abdul kareem Ansari,Kaleem Farman Ansari,0,H#  700 Street No. 45 Mujahid block Abdul Hakim,14-Jan-76,4-Aug-96,A,C,A-Level
+1038,Fatima Sehti,Masroor Aun Sehti,1,house #  247 st. #  40 Bakra mandi D.G. Khan,16-Oct-76,7-Aug-96,A,C,FSc
+1039,Emmad Haq,Rana Yaar Muhammad Haq,0,h#  562 st. #  36 Jalabad Dera Ismail Khan,18-Oct-76,10-Aug-96,A,C,A-Level
+1040,Aqeel Abdul Haseeb,Abdul Haseeb Rahat,0,House #  876 street no. 99 Sherazia coloney Gujrat,18-Jul-76,13-Aug-96,A,C,FSc
+1041,Haroon Chatta,Moeen Chatta,0,house no. 191 Street #  94 Lohi pura Sialkot,20-Mar-78,17-Aug-96,A,C,F.Sc.
+1042,Hafiz Siraj Baig,Tabraiz Baig,0,ho. # 737 St. # 90  Pakistan hostel Bhawalpur,21-Apr-78,20-Aug-96,A,C,Fsc
+1043,Zil-e-Huma Abdul Hannan Zil-e-Ali Chatta,Abdul Hannan Zil-e-Ali Chatta,1,House No.52 s# 85  Dhamiyal Jehlum,23-Dec-78,23-Aug-96,A,C,F.Sc.
+1044,Fakhar Masud Kazmi,Mirza Zulfiqar Kazmi,0,Ho. # 366 St. no.48  Dehri Abdul Hakim,23-Aug-78,26-Aug-96,A,C,Fsc
+1045,Farooq Qaisar,Qaisar Ibraheem,0,Ho. no.913 street # 43  Hospital road Dera ghazi khan,25-Sep-77,1-Aug-96,A,C,A level
+1046,Sehar Najum,Najum Ajmal,1,h no.228 S No.39  Cantt. road Multan,25-May-77,4-Aug-96,A,C,HSSC
+1047,Kamal Khattak,Ejaz Khattak,0,Ho. No.542 St. No.2  Landi LalaMusa,27-Feb-77,7-Aug-96,A,C,A level
+1048,Rabbi Kareem Minhas,Sahir Abid Minhas,0,H No. 89 st. #  97 Taj abad Sialkot,28-Oct-77,10-Aug-96,A,C,HSSC
+1049,Atiya Niazi,Muhammad Kabir Niazi,1,house #  403 st. #  93 Shakrial Pindi Bhatian,1-Oct-76,14-Aug-96,A,C,FSc
+1050,Rana Rasheed Haq,Sheik Shariq Haq,0,h#  718 street no. 88 Jalsa gha Kharian,3-Jul-76,17-Aug-96,A,C,A-Level
+1051,Azmat Jameel,Jameel Sheharyar,0,House #  265 Street #  51 Karnianwala Bahawalpur,3-Mar-76,20-Aug-96,A,C,FSc
+1052,Momd. Aftab Haq,Bashir Haq,0,house no. 579 St. #  47 Noorpur D.I. Khan,5-Apr-78,24-Aug-96,A,C,F.Sc.
+1053,Mahtab Kiyyani,Hussain Latif Kiyyani,0,ho. #  894 s#  42 Factory road Gujrawala,5-Dec-78,27-Aug-96,A,C,Fsc
+1054,Midhat Zubair Shams Namani,Zubair Shams Namani,1,House No.440 St. no.37  Garrizon Wazirabad,8-Aug-78,1-Aug-96,A,C,F.Sc.
+1055,Qamar Kiyyani,M. Qudoos Kiyyani,0,Ho. # 755 street # 1  Ramzania Sargodha,8-Sep-78,4-Aug-96,A,C,Fsc
+1056,Muneer Abdur Rasheed,Abdur Rasheed Farzan,0,Ho. no.69 S No.96  Pind dadu Kabirwala,10-May-77,8-Aug-96,A,C,A level
+1057,Madiha Firdous,Firdous Khalid,1,h no.384 St. No.91  Bara qabrustan Shekhopura,10-Feb-77,11-Aug-96,A,C,HSSC
+1058,Anayyat Qureshi,Kaleem Qureshi,0,Ho. No.931 St. No.87  Niazi town Melsi,12-Feb-77,14-Aug-96,A,C,A level
+1059,Sammi Ismaili,Sohail Mujeeb Ismaili,0,H No.245 st. # 50  Shuakat coloney D.I. Khan,12-Oct-77,17-Aug-96,A,C,HSSC
+1060,Saalia Sheikh Yaar Muhammad Niazi,Sheikh Yaar Muhammad Niazi,1,house #  560 street no. 45 Khasra Gujrat,15-Jul-76,21-Aug-96,A,C,FSc
+1061,Mohammed Sultan Ismaili,Aga Zaran Ismaili,0,h#  106 street no. 41 Buliyan wali Faisalabad,17-Jul-76,24-Aug-96,A,C,A-Level
+1062,Abdul Hameed Iffan,Iffan Wajid,0,House #  421 St. #  4 Dak ghar Sahiwal,17-Apr-76,27-Aug-96,A,C,FSc
+1063,Amra Rasheed Haqq,Rasheed Haqq,1,H#  735 s#  99 Cement factory coloney Kabirwala,19-Dec-76,1-Aug-96,A,C,A-Level
+1064,Rohail Awan,Abdul Hannan Zishan Awan,0,ho. #  282 s#  94 Chandi bazar Abdul Hakim,19-Dec-78,5-Aug-96,A,C,Fsc
+1065,Sidra Namani,Zamir Nabeel Namani,1,House No. 597 street #  90 Mujahid block D.G. Khan,21-Sep-78,8-Aug-96,A,C,F.Sc.
+1066,Abdul Najeeb Moeen Sherazi,Ch. Ibraheem Sherazi,0,Ho. # 911 S No.53  Bakra mandi Dera Ismail Khan,22-May-78,11-Aug-96,A,C,Fsc
+1067,Ismail Abdul Mujeeb,Abdul Mujeeb Talha,0,house no.458 S# 48  Jalabad Gujrat,24-Jun-78,14-Aug-96,A,C,F.Sc.
+1068,Amber Rasheed,Rasheed AAdil,1,h no.772 St. No.44  Kamra chowk Sialkot,24-Feb-77,18-Aug-96,A,C,HSSC
+1069,Najeeb Shaheen,Shaheen Rasheed,0,Ho. No.87 st. # 39  Lohi pura Bhawalpur,26-Oct-77,21-Aug-96,A,C,A level
+1070,Amjad Laghari,Karam Laghari,0,H No.633 s no.2  Pakistan hostel Jehlum,26-Nov-77,24-Aug-96,A,C,HSSC
+1071,Nida Pasha,Zameer Kaleem Pasha,1,house # 948 street no.98  Basti Bahawalpur,28-Jul-76,28-Aug-96,A,C,FSc
+1072,Ijaz Jamal Haque,Bakht Hameed Haque,0,h#  263 St. #  93 Khumar road Dera ghazi khan,2-Apr-76,2-Aug-96,A,C,A-Level
+1073,Aga Shabir Pasha,Mouhammed Talha Pasha,0,House #  809 St. #  88 Hospital road Multan,2-Apr-76,5-Aug-96,A,C,FSc
+1074,Zil-e-Huma Ijaz,Ijaz Pervaiz,1,H#  124 Street No. 52 Cantt. road LalaMusa,4-Jan-76,8-Aug-96,A,C,A-Level
+1075,Saroor Latif Butt,Shahroze Butt,0,ho. #  438 street #  47 Kusar coloney Sargodha,4-Sep-78,12-Aug-96,A,C,Fsc
+1076,Rizwana Abbasi,Bulbul Abbasi,1,House No. 753 street #  42 Bhatta Pindi Bhatian,6-Sep-78,15-Aug-96,A,C,F.Sc.
+1077,Sh. Safi Butt,Shahid Javed Butt,0,Ho. # 299 S# 6  Shakrial Kharian,7-Jun-78,18-Aug-96,A,C,Fsc
+1078,Munir Ansary,Momd. Muneer Ansary,0,house no.614 St. No.1  Jalsa gha Bahawalpur,9-Feb-78,21-Aug-96,A,C,F.Sc.
+1079,Kaneez Fatima Abdul Najeeb,Abdul Najeeb Furqan,1,h no.929 Street # 96  Sihaal D.I. Khan,9-Mar-77,25-Aug-96,A,C,HSSC
+1080,Taimor Gul,Gul Muamar,0,Ho. No.475 s no.91  Noorpur Gujrawala,11-Nov-77,28-Aug-96,A,C,A level
+1081,Sh. Abdur Rahim Laghari,Rizwan Laghari,0,H No.790 street no.55  Factory road Wazirabad,11-Jul-77,2-Aug-96,A,C,HSSC
+1082,Shahina Bhatti,Noor Adil Bhatti,1,Ho. no.104 St. no.50  Garrizon Sargodha,13-Aug-77,5-Aug-96,A,C,A level
+1083,Shams-ul-Islam Kamal Satti,Hafiz Yousaf Satti,0,h#  651 St. #  45 Nai abadi Kabirwala,16-Apr-76,9-Aug-96,A,C,A-Level
+1084,Azam Pasha,Chodhary Abdul Haseeb Pasha,0,House #  965 Street No. 41 Pind dadu Shekhopura,16-Jan-76,12-Aug-96,A,C,FSc
+1085,Atiya Shabi,Shabi Rahid,1,H#  280 Street No. 4 Bara qabrustan Melsi,18-Jan-76,15-Aug-96,A,C,A-Level
+1086,Sonil Pasha,Fakhar Pasha,0,ho. #  827 street #  99 Daniyaal town Dera Ismail Khan,18-Sep-78,19-Aug-96,A,C,Fsc
+1087,Zeba Jabbar Hussain Abbasi,Jabbar Hussain Abbasi,1,House No. 141 S#  95 Haider road Gujrat,20-Jun-78,22-Aug-96,A,C,F.Sc.
+1088,Abuzar Durrani,Sameer Momin Durrani,0,Ho. #  456 S#  90 Khasra Faisalabad,20-Jun-78,25-Aug-96,A,C,Fsc
+1089,Nabeel Umar Abbasi,Shk. Najum Abbasi,0,house no.2 Street # 53  Buliyan wali Sahiwal,23-Mar-78,28-Aug-96,A,C,F.Sc.
+1090,Umber Hussain,Hussain Anwer,1,h no.317 s no.49  Railway line Jehlum,23-Nov-77,3-Aug-96,A,C,HSSC
+1091,Ubaid Khurshid,Khurshid Karam,0,Ho. No.631 s no.44  Farooqia Abdul Hakim,25-Nov-77,6-Aug-96,A,C,A level
+1092,Tabraiz Hussain Gondal,Mahtab Gondal,0,H No.178 St. no.7  Chandi bazar D.G. Khan,25-Aug-77,9-Aug-96,A,C,HSSC
+1093,Fareeha Viqar-ul-Islam Arsalan Haqqie,Viqar-ul-Islam Arsalan Haqqie,1,Ho. no.493 St. # 3  Mujahid block Dera Ismail Khan,27-Apr-77,12-Aug-96,A,C,A level
+1094,Sh. Waqar Satti,Agha Zil-e-Ali Satti,0,h# 807 S No.98  Chittian hattian LalaMusa,29-May-76,16-Aug-96,A,C,A-Level
+1095,Barkat Osman Haqqie,Rana Daud Haqqie,0,House #  122 Street No. 93 Odean chowk Sialkot,1-Jan-76,19-Aug-96,A,C,FSc
+1096,Roohi Kaleem,Kaleem Abdul Qadeer,1,H#  668 street #  56 Kamra chowk Bhawalpur,3-Sep-76,22-Aug-96,A,C,A-Level
+1097,Yaseen Chohan,Bulbul Chohan,0,house #  983 st. #  52 Lohi pura Jehlum,3-Oct-76,25-Aug-96,A,C,FSc
+1098,Hira Baig,Shahid Abdur Rahman Baig,1,House No. 298 S#  47 Chand mari Bahawalpur,5-Jun-78,29-Aug-96,A,C,F.Sc.
+1099,Badar Durrani,Arman Mujtaba Durrani,0,Ho. #  844 Street #  42 Basti Dera ghazi khan,5-Mar-78,3-Aug-96,A,C,Fsc
+1100,Choudhary Momin Jaffery,Raja Imran Jaffery,0,house no. 159 Street #  6 Khumar road Multan,7-Mar-78,6-Aug-96,A,C,F.Sc.
+1101,Tayyaba Sajid,Sajid Raza,1,h no.473 s no.1  Purani Taal Wazirabad,8-Nov-77,10-Aug-96,A,C,HSSC
+1102,Hafiz Sameer Ansari,Rizwan Ansari,0,Ho. No.20 St. no.96  City Road Sargodha,10-Aug-77,13-Aug-96,A,C,A level
+1103,Kalim Khattak,Sana Ullah Khattak,0,H No.334 St. no.92  Kusar coloney Pindi Bhatian,10-Aug-77,16-Aug-96,A,C,HSSC
+1104,Zara Ansari,Yousaf Malik Ansari,1,Ho. no.649 S No.55  Bhatta Kharian,12-May-77,19-Aug-96,A,C,A level
+1105,Ibraheem Sehti,Aga Tipu Sehti,0,h# 196 Street No.50  Bunkhar gali Melsi,14-Jan-76,23-Aug-96,A,C,A-Level
+1106,Mujtaba Zil-e-Ali Haqqie,Hafiz Abid Haqqie,0,House # 510 St. No.46  Eid gha D.I. Khan,14-Feb-76,26-Aug-96,A,C,FSc
+1107,Batool Ajab,Ajab Hamid,1,H#  825 st. #  41 Sihaal Gujrawala,17-Oct-76,29-Aug-96,A,C,A-Level
+1108,Mohammad Zakir Chatta,Jabbar Chatta,0,house #  371 S#  4 Noorpur Wazirabad,17-Jun-76,3-Aug-96,A,C,FSc
+1109,Qurat-ul-Ain Baig,Sameer Sharif Baig,1,House No. 686 street no. 0 College road Sahiwal,19-Jul-78,7-Aug-96,A,C,F.Sc.
+1110,Mahtab Yousaf Chatta,Mujeeb Soneel Chatta,0,Ho. #  0 Street #  95 Malik abad Kabirwala,19-Mar-78,10-Aug-96,A,C,Fsc
+1111,Bulbul Jaffery,Mohammed Emmad-ud-Din Jaffery,0,house no. 315 s#  58 Nai abadi Shekhopura,21-Dec-78,13-Aug-96,A,C,F.Sc.
+1112,Hajira Safi,Safi AAmer,1,ho. # 862 St. no.54  Pind dadu Melsi,22-Aug-78,16-Aug-96,A,C,Fsc
+1113,Zafar Shabi Jaffery,Mahtab Jaffery,0,Ho. No.176 St. no.49  Koral Dera Ismail Khan,24-Aug-77,20-Aug-96,A,C,A level
+1114,Husain Khattak,Farooq Khattak,0,H No.491 S No.44  Daniyaal town Gujrat,24-May-77,23-Aug-96,A,C,HSSC
+1115,Sajida Minhas,Zil-e-Ali Rabbi Minhas,1,Ho. no.37 Street No.7  Haider road Faisalabad,26-Jan-77,26-Aug-96,A,C,A level
+1116,Abdus Sammi Shakeel Khattak,Mohammad Atif Khattak,0,h# 352 St. No.3  Byaar Bhawalpur,28-Feb-76,1-Aug-96,A,C,A-Level
+1117,Zulfiqar Husain,Husain Abdul Qadir,0,House # 666 st. # 98  Doley shah Jehlum,28-Oct-76,4-Aug-96,A,C,FSc
+1118,Qurat-ul-Ain Akmal,Akmal Abdul kareem,1,H#  213 S#  93 Railway line Abdul Hakim,2-Jun-76,7-Aug-96,A,C,A-Level
+1119,Mahtab Abdur Rahim Haq,Shahid Haq,0,house #  528 street no. 57 Farooqia D.G. Khan,2-Jul-76,10-Aug-96,A,C,FSc
+1120,Nazma Arman Masud Kiyyani,Arman Masud Kiyyani,1,House No. 842 Street #  52 Kotlia Multan,4-Mar-78,14-Aug-96,A,C,F.Sc.
+1121,Hameed Ramzan Khanzada,Atif Zishan Khanzada,0,Ho. #  389 s#  47 Saidpur road LalaMusa,4-Dec-78,17-Aug-96,A,C,Fsc
+1122,Abdul Hannan Qureshi,Syyed Sammi Qureshi,0,house no. 703 s#  43 Chittian hattian Sialkot,6-Dec-78,20-Aug-96,A,C,F.Sc.
+1123,Tamania Rafi,Rafi Abdul kareem,1,ho. #  18 St. no. 6 Odean chowk Bhawalpur,6-Aug-78,23-Aug-96,A,C,Fsc
+1124,Tahir Mujeeb,Mujeeb Shams,0,Ho. No.564 S No.1  Farman block Kharian,9-May-77,27-Aug-96,A,C,A level
+1125,Aun Ismaili,Jamil Ismaili,0,H No.879 S No.97  Mitran walia Bahawalpur,9-May-77,1-Aug-96,A,C,HSSC
+1126,Nimra Paracha,Kishwar Zameer Paracha,1,Ho. no.194 St. No.60  Chand mari Dera ghazi khan,11-Feb-77,4-Aug-96,A,C,A level
+1127,Anwer Qasim Haqq,Nawabzada Abdullah Haqq,0,h no.740 st. # 55  Basti Multan,13-Oct-77,7-Aug-96,A,C,HSSC
+1128,Mohammad Pervaiz Paracha,M. Faisal Paracha,0,House # 55 st. # 51  Kamalia Wazirabad,13-Oct-76,11-Aug-96,A,C,FSc
+1129,Sana Osama,Osama Saaleh,1,H# 369 street no.46  Purani Taal Sargodha,15-Jul-76,14-Aug-96,A,C,A-Level
+1130,Safi Mukhtar Sherazi,Mazhar Sherazi,0,house #  684 Street #  9 City Road Pindi Bhatian,16-Mar-76,17-Aug-96,A,C,FSc
+1131,Bulbul Zaidi,Kamran Anjum Zaidi,0,h#  230 St. #  4 Kusar coloney Kharian,18-Apr-76,20-Aug-96,A,C,A-Level
+1132,Syed Sonil Khanzada,Jan Ubaid Khanzada,0,Ho. #  545 s#  0 Illyas abad Melsi,18-Dec-78,24-Aug-96,A,C,Fsc
+1133,Shabi Usmani,Momd. Muzammil Usmani,0,house no. 860 St. no. 95 Bunkhar gali D.I. Khan,20-Aug-78,27-Aug-96,A,C,F.Sc.
+1134,Shahina Sultan,Sultan Aslam,1,ho. #  406 street #  58 Eid gha Gujrawala,20-Sep-78,1-Aug-96,A,C,Fsc
+1135,Muazzam Anjum Hussaini,Jabir Hussaini,0,Ho. No. 721 S No. 54 Muzafar shah Faisalabad,22-May-77,5-Aug-96,A,C,A level
+1136,Sheik Arshad Laghari,Najeeb Laghari,0,H No.35 St. No.49  Lakhan Sahiwal,23-Feb-77,8-Aug-96,A,C,HSSC
+1137,Saima Hussaini,AAqil Abdul Qadir Hussaini,1,Ho. no.582 St. No.44  College road Kabirwala,25-Feb-77,11-Aug-96,A,C,A level
+1138,Saleem Kaleem Haque,Nawabzada Ghazanfar Haque,0,h no.896 s no.8  Malik abad Shekhopura,27-Nov-77,14-Aug-96,A,C,HSSC
+1139,Abdur Rahim Paracha,Chodhary Munir Paracha,0,House # 211 street no.3  Purana shehar D.G. Khan,27-Jul-76,18-Aug-96,A,C,FSc
+1140,Hira Iffan,Iffan Tabraiz,1,H# 758 street no.98  Karki Dera Ismail Khan,29-Jul-76,21-Aug-96,A,C,A-Level
+1141,Masroor Niaz Butt,Rafi Butt,0,house # 72 St. # 62  Koral Gujrat,29-Apr-76,24-Aug-96,A,C,FSc
+1142,Ghulam Mustafa Ijaz Zaidi,Zulfiqar Niaz Zaidi,0,h#  387 s#  57 Daniyaal town Faisalabad,3-Dec-76,27-Aug-96,A,C,A-Level
+1143,Tipu Butt,Ayyaz Jabir Butt,0,Ho. #  933 Street No. 52 Saat meel Bhawalpur,3-Jan-78,2-Aug-96,A,C,Fsc
+1144,Abu Bakr Rohail Usmani,Sh. Abdul Ahad Usmani,0,house no. 248 street #  48 Byaar Jehlum,5-Sep-78,5-Aug-96,A,C,F.Sc.
+1145,Ghosia Tipu,Tipu Shams,1,ho. #  563 S No. 11 Doley shah Abdul Hakim,5-May-78,8-Aug-96,A,C,Fsc
+1146,Tahir Ansary,Osama Ansary,0,House No. 109 S#  6 Railway line D.G. Khan,7-Jun-78,11-Aug-96,A,C,F.Sc.
+1147,Abdur Raziq Munnawar Laghari,Anwar Laghari,0,H No.424 St. No.1  Chan chirag Multan,8-Feb-77,15-Aug-96,A,C,HSSC
+1148,Mahreen Muazzum Anwar Bhatti,Muazzum Anwar Bhatti,1,Ho. no.738 s no.97  Kotlia LalaMusa,10-Nov-77,18-Aug-96,A,C,A level
+1149,Jabir Laghari,Hafiz Sheharyar Laghari,0,h no.53 s no.60  Saidpur road Sialkot,12-Nov-77,21-Aug-96,A,C,HSSC
+1150,Ahmad Sageer,Sageer Saaleh,0,House # 599 street no.55  Jaamia Masjid road Pindi Bhatian,12-Jul-76,25-Aug-96,A,C,FSc
+1151,Umme Habiba Najeeb,Najeeb Hussain,1,H# 914 St. # 51  Surahi bazar Kharian,14-Apr-76,28-Aug-96,A,C,A-Level
+1152,Kamran Pasha,Kamran Pasha,0,house # 229 St. # 46  Farman block Bahawalpur,14-Apr-76,2-Aug-96,A,C,FSc
+1153,Shk. Yasin Abbasi,Qudoos AAmer Abbasi,0,h#  775 Street No. 9 Mitran walia Dera ghazi khan,17-Jan-76,5-Aug-96,A,C,A-Level
+1154,Ajab Butt,Shuja Wajid Butt,0,Ho. #  90 street #  5 Deinga Gujrawala,17-Sep-78,9-Aug-96,A,C,Fsc
+1155,Mirza Moeen Abbasi,Raja Khalid Abbasi,0,house no. 404 street #  0 Ghosia masjid chwok Wazirabad,19-Sep-78,12-Aug-96,A,C,F.Sc.
+1156,Viqar-un-Nisa Rehmat,Rehmat Jabir,1,ho. #  951 S#  63 Kamalia Sargodha,19-Jun-78,15-Aug-96,A,C,Fsc
+1157,M. Bakht Ansary,Masroor Ansary,0,House No. 265 St. No. 59 Purani Taal Pindi Bhatian,21-Feb-78,18-Aug-96,A,C,F.Sc.
+1158,Amjad Gondal,AAqil Gondal,0,H No. 580 Street #  54 Darian Shekhopura,21-Mar-77,22-Aug-96,A,C,HSSC
+1159,Saba Bhatti,Rahat Hussain Bhatti,1,Ho. no.127 s no.49  Kumria Melsi,24-Nov-77,25-Aug-96,A,C,A level
+1160,Sharif Satti,Agha Wajid Satti,0,h no.441 street no.13  Illyas abad D.I. Khan,26-Jul-77,28-Aug-96,A,C,HSSC
+1161,Bashir Abdur Rasheed,Abdur Rasheed Tabraiz,0,Ho. No.756 St. no.8  Bunkhar gali Gujrawala,26-Aug-77,2-Aug-96,A,C,A level
+1162,Mahjabeen Jamal,Jamal Abdul Hannan,1,H# 302 St. # 3  Biyaal Faisalabad,28-Apr-76,6-Aug-96,A,C,A-Level
+1163,Chodhary Latif Chohan,Zulfiqar Chohan,0,house # 617 Street No.99  Muzafar shah Sahiwal,28-Jan-76,9-Aug-96,A,C,FSc
+1164,Pervaiz Shah,Ibraheem Zulfiqar Shah,0,h# 931 Street No.62  Lakhan Kabirwala,1-Jan-76,12-Aug-96,A,C,A-Level
+1165,Sheikh Hayyat Durrani,Mirza Ajmal Durrani,0,Ho. #  246 street #  57 Shehar bazar Abdul Hakim,2-Sep-78,16-Aug-96,A,C,Fsc
+1166,Mukhtar Abbasi,Mouhammad Ijaz Abbasi,0,house no. 793 S#  52 Mandi D.G. Khan,4-Jun-78,19-Aug-96,A,C,F.Sc.
+1167,Sualeha Pervaiz,Pervaiz Osama,1,ho. #  107 S#  48 Purana shehar Dera Ismail Khan,4-Jun-78,22-Aug-96,A,C,Fsc
+1168,Zaran Sonil Ansari,Kabir Ansari,0,House No. 422 Street #  11 Karki Gujrat,6-Mar-78,25-Aug-96,A,C,F.Sc.
+1169,Kaleem Gondal,Muazzum Gondal,0,H No. 968 s no. 6 Mitthian Sialkot,6-Nov-77,29-Aug-96,A,C,HSSC
+1170,Asiya Ansari,Sheharyar Abdul Haseeb Ansari,1,Ho. no. 283 s#  2 Afangi block Bhawalpur,8-Dec-77,3-Aug-96,A,C,A level
+1171,Farzan Salim Satti,Mohammad Rai Satti,0,h no.597 St. no.97  Saat meel Jehlum,11-Aug-77,6-Aug-96,A,C,HSSC
+1172,Nazir Ubaid,Ubaid Husain,0,Ho. No.144 St. # 60  Byaar Abdul Hakim,11-Apr-77,9-Aug-96,A,C,A level
+1173,Khurshid Imran,Imran Zubair,1,H# 459 Street No.56  Shah malung Dera ghazi khan,13-Jan-76,13-Aug-96,A,C,A-Level
+1174,Mouhammad Nazir Kazmi,Jibran Kazmi,0,house # 773 Street No.51  kurang nala Multan,13-Jan-76,16-Aug-96,A,C,FSc
+1175,Moeen Khan,Sheharyar Abdul Hannan Khan,0,h# 320 st. # 14  Chan chirag LalaMusa,15-Oct-76,19-Aug-96,A,C,A-Level
+1176,Annum Rai Nazir Kazmi,Rai Nazir Kazmi,1,House # 634 S# 10  Kotlia Sialkot,15-Jun-76,22-Aug-96,A,C,FSc
+1177,Abdul Hameed Khattak,Syyed Muamar Khattak,0,house no. 949 S#  5 Main workshop Pindi Bhatian,18-Jun-78,26-Aug-96,A,C,F.Sc.
+1178,Saalia Daud,Daud Farman,1,ho. #  495 Street #  0 Jaamia Masjid road Kharian,18-Mar-78,29-Aug-96,A,C,Fsc
+1179,Sahibzada Mustansar Niazi,Noor Niazi,0,House No. 810 s no. 64 Surahi bazar Bahawalpur,20-Nov-78,3-Aug-96,A,C,F.Sc.
+1180,Abdul Jabbar Haq,Farzan Haq,0,H No. 125 s#  59 Kachi abadi D.I. Khan,20-Dec-77,7-Aug-96,A,C,HSSC
+1181,Shafaq Awan,Abdul Haseeb Nazeer Awan,1,Ho. no. 671 St. no. 54 Sukkhan abad Gujrawala,22-Aug-77,10-Aug-96,A,C,A level
+1182,Muazzum Sameer Haq,Ch. Kalim Haq,0,h no.986 St. # 49  Deinga Wazirabad,25-Apr-77,13-Aug-96,A,C,HSSC
+1183,Arshad Obaid,Obaid Fakhar,0,Ho. No.300 S No.13  Ghosia masjid chwok Sargodha,25-May-77,16-Aug-96,A,C,A level
+1184,Natalia Salman,Salman Niaz,1,H# 615 Street No.8  Park road Kabirwala,27-Jan-76,20-Aug-96,A,C,A-Level
+1185,Ch. Qaisar Kiyyani,Rayyan Kiyyani,0,house # 161 st. # 3  Zikria Shekhopura,27-Oct-76,23-Aug-96,A,C,FSc
+1186,Mukhtar Shams Qureshi,Wajid Baber Qureshi,0,h# 476 st. # 99  Darian Melsi,29-Oct-76,26-Aug-96,A,C,A-Level
+1187,Atra Kazmi,Rasheed AAmir Kazmi,1,House # 791 S# 62  Kumria D.I. Khan,29-Jun-76,29-Aug-96,A,C,FSc
+1188,Zubair Qureshi,Muhammad Karam Qureshi,0,house no. 337 Street #  57 Nizam pur Gujrat,3-Mar-78,4-Aug-96,A,C,F.Sc.
+1189,Hina Annan,Annan Zameer,1,ho. #  652 Street #  53 post office Faisalabad,3-Mar-78,7-Aug-96,A,C,Fsc
+1190,Jan Uhad Niazi,Viqar-ul-Islam Niazi,0,House No. 966 s#  16 Biyaal Sahiwal,5-Dec-78,10-Aug-96,A,C,F.Sc.
+1191,Nawabzada Sana Ullah Ismaili,Azhar Ismaili,0,Ho. #  513 St. no. 11 Muzafar shah Kabirwala,5-Aug-78,13-Aug-96,A,C,Fsc
+1192,Nabeera Awan,Pervaiz Shabir Awan,1,Ho. no. 828 St. no. 7 Karkhana road Abdul Hakim,7-Aug-77,17-Aug-96,A,C,A level
+1193,M. Inayyat Haqq,Nawabzada Shahroze Haqq,0,h no. 142 S No. 2 Shehar bazar D.G. Khan,9-May-77,20-Aug-96,A,C,HSSC
+1194,Ramzan Husain,Husain Bulbul,0,Ho. No.689 Street No.65  Mandi Dera Ismail Khan,10-Jan-77,23-Aug-96,A,C,A level
+1195,Ronaq Shahzor,Shahzor Jibran,1,H No.3 St. No.61  Purana shehar Gujrat,12-Feb-77,26-Aug-96,A,C,HSSC
+1196,Shabi Amjad Sherazi,Munir Sherazi,0,house # 318 st. # 56  Jamia masjid chowk Sialkot,12-Oct-76,1-Aug-96,A,C,FSc
+1197,Chodhary Jabbar Namani,Gul Khurshid Namani,0,h# 864 street no.51  Mitthian Bhawalpur,14-Jul-76,4-Aug-96,A,C,A-Level
+1198,Rukshanda Khanzada,Momd. Muamar Khanzada,1,House # 179 street no.14  Afangi block Jehlum,14-Jul-76,7-Aug-96,A,C,FSc
+1199,Adnan Zulqur nain Usmani,Sheikh Rizwan Usmani,0,house no.494 Street # 10  Mutian wala Bahawalpur,16-Mar-78,11-Aug-96,A,C,F.Sc.

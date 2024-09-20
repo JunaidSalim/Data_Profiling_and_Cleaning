@@ -1,0 +1,301 @@
+Reg#,Name,Father,Address,Date of Birth,lastDeg,Reg Date,Reg Status,Deg Status
+0,Midhat Azhar Durrani,Azhar Durrani,H# 447 St. # 5  Air port coloney PSH,14-4-74,A-Level,26-8-94,A,C
+1,Mouhammed Abdul Rafay Kazmi,Iffan Kazmi,H#  169 s#  0 University coloney PSH,13-12-74,A-Level,13-8-94,A,C
+2,Ajab Khan,Sahir Fazal Khan,ho. #  484 street #  95 Buliyan wali Sawat,13-9-76,Fsc,17-8-94,A,C
+3,Moeen Minhas,Chodhary Zakir Minhas,House No. 31 street #  91 Industrial estate Peshawar,15-9-76,F.Sc.,20-8-94,A,C
+4,Samina Niazi,Sahibzada Javed Niazi,Ho. # 345 S# 86  Afindi road psh,16-6-76,Fsc,23-8-94,A,C
+5,Ijaz Bashir,Bashir Muneer,house no.660 St. No.49   Sawat,18-2-76,F.Sc.,26-8-94,A,C
+6,Yawar Karam Illahi Awan,Furqan Awan,h no.206 St. No.45  Lane 3 Khybar road PESHAWAR,18-2-75,HSSC,1-8-94,A,C
+7,Manahil Baqir Abuzar Haq,Baqir Abuzar Haq,Ho. No.521 s no.40  Bakra mandi Noshera,20-11-75,A level,4-8-94,A,C
+8,Sheikh Muaz Awan,Kashif Ali Awan,H No.835 street no.3  Jalabad Abbotabad,22-7-75,HSSC,7-8-94,A,C
+9,Bakht Namani,Momd. Barkat Namani,house # 382 St. no.98  Jamurd  town peshawar,22-8-74,FSc,11-8-94,A,C
+10,Ghosia Najum,Najum Yosaf,h#  697 St. #  94 Lohi pura Hasanabdal,25-4-74,A-Level,14-8-94,A,C
+11,Najam Namani,Abdul Haseeb Namani,House #  11 Street No. 89 Industrial estate peshawar,25-1-74,FSc,17-8-94,A,C
+12,Saroor Pervaiz Kazmi,Rahid Kazmi,H#  558 Street No. 52 Afindi road PSH,27-1-74,A-Level,20-8-94,A,C
+13,Hayyat Qureshi,Sohail Mujahid Qureshi,ho. #  872 street #  48 Khumar road Sawat,27-9-76,Fsc,24-8-94,A,C
+14,Choudhary Mukhtar Khanzada,Nawabzada Abdul Jabbar Khanzada,House No. 187 S#  43 Lane 3 Khybar road Peshawar,29-6-76,F.Sc.,27-8-94,A,C
+15,Mahpara Mouhammed Sharif Niazi,Mouhammed Sharif Niazi,Ho. #  501 S#  38 Industrial estate psh,29-6-76,Fsc,1-8-94,A,C
+16,Uhad Qaisar,Qaisar AAdil,house no.48 Street # 2  Landi Sawat,3-3-76,F.Sc.,4-8-94,A,C
+17,Osman Rai,Rai Tipo,h no.363 s no.97  Bhatta Haripur,3-11-75,HSSC,8-8-94,A,C
+18,Bilqees Rahid Zaidi,Rahid Zaidi,Ho. No.677 s no.92  Lane 3 Khybar road Psh,5-11-75,A level,11-8-94,A,C
+19,Mohammed Kashif Sherazi,Hamid Sherazi,H No.224 St. no.88  Industrial estate PESHAWAR,7-8-75,HSSC,14-8-94,A,C
+20,M. Fazal Zaidi,Jabbar Saroor Zaidi,Ho. no.538 St. # 51  Karnianwala Haripur,7-4-75,A level,17-8-94,A,C
+21,Shafaq Kharasani,Agha Sharif Kharasani,h# 853 S No.46  Jamurd  town PSH,9-5-74,A-Level,21-8-94,A,C
+22,Rahid Najam,Najam Haseeb,House #  399 Street No. 42 Factory road Attock,10-1-74,FSc,24-8-94,A,C
+23,Ghulam Yasin Abdul Mujeeb,Abdul Mujeeb Anwer,H#  714 street #  5 Garrizon Mardan,12-9-74,A-Level,27-8-94,A,C
+24,Tayyaba Hussaini,Khurram Hussaini,house #  29 st. #  0 Afindi road peshawar,12-10-74,FSc,1-8-94,A,C
+25,Shahid Aun Laghari,Mahtab Muazzam Laghari,House No. 575 S#  95 Pind dadu Mansehra,14-6-76,F.Sc.,5-8-94,A,C
+26,Anjum Bhatti,Choudhary Farooq Bhatti,Ho. #  890 Street #  91 Lane 3 Khybar road psh,14-3-76,Fsc,8-8-94,A,C
+27,Karam Illahi Haque,Raja Osman Haque,house no. 204 Street #  54 Industrial estate Peshawar,16-3-76,F.Sc.,11-8-94,A,C
+28,Shams-ul-Islam Khurshid,Khurshid Baber,h no.751 s no.49  Haider road Haripur,17-11-75,HSSC,15-8-94,A,C
+29,Najma Haque,Abdul Qadeer Haque,Ho. No.65 St. no.45  Jamurd  town Psh,19-8-75,A level,18-8-94,A,C
+30,Bakht Mujtaba Butt,Haroon Badar Butt,H No.380 St. no.40  Buliyan wali Abbotabad,21-8-75,HSSC,21-8-94,A,C
+31,Muazzum Abbasi,Shahid Emmad-ud-Din Abbasi,Ho. no.927 S No.3  Dak ghar Haripur,21-5-75,A level,24-8-94,A,C
+32,Nafisa Butt,Mohammad Arman Butt,h# 241 Street No.99  Hayata Abad PSH,23-1-74,A-Level,28-8-94,A,C
+33,Haseeb Kaleem,Kaleem Danish,House #  556 Street No. 94 Chandi bazar Attock,24-1-74,FSc,2-8-94,A,C
+34,Abdus Sattar Jameel,Jameel Inayyat,H#  870 st. #  89 Mujahid block Mardan,26-10-74,A-Level,5-8-94,A,C
+35,Najma Muslim Ansary,Muslim Ansary,house #  417 S#  53 Industrial estate peshawar,26-6-74,FSc,8-8-94,A,C
+36,Tanvir Naeem Satti,Sana Ullah Farman Satti,House No. 731 street no. 48 Odean chowk Mansehra,28-7-76,F.Sc.,12-8-94,A,C
+37,Jabeen Bhatti,Mirza Nazar Bhatti,Ho. #  46 Street #  43 Jamurd  town psh,28-3-76,Fsc,15-8-94,A,C
+38,Abdul Mannan Sarwar Satti,Mohammed Tipu Satti,house no. 593 s no. 7 Lane 3 Khybar road Peshawar,1-11-76,F.Sc.,18-8-94,A,C
+39,Aqeel Abdur Rasheed,Abdur Rasheed Shan,ho. # 907 s# 2  Pakistan hostel Mansehra,2-12-76,Fsc,21-8-94,A,C
+40,Aliya Shah,Hamid Shah,Ho. No.222 St. no.97  Hayata Abad Psh,4-8-75,A level,25-8-94,A,C
+41,Rana AAmir Chohan,Alam Ibrahim Chohan,H No.768 S No.92  Khumar road Abbotabad,6-5-75,HSSC,28-8-94,A,C
+42,Ubaid Masood Abbasi,Sameer Safi Abbasi,Ho. no.83 S No.56  Hospital road Haripur,6-5-75,A level,2-8-94,A,C
+43,Rozina Durrani,Sheik Mujeeb Durrani,h# 397 St. No.51  Lane 6 Mall road PSH,8-2-74,A-Level,6-8-94,A,C
+44,Amjad Gul,Gul Mustansar,House # 944 st. # 46  Kusar coloney Attock,8-10-74,FSc,9-8-94,A,C
+45,Yusaf Amjad Gondal,Khurram Gondal,H#  259 S#  42 Jamurd  town PSH,11-6-74,A-Level,12-8-94,A,C
+46,Hasina Ansari,Nazir Ansari,house #  573 street no. 5 Lane 3 Khybar road peshawar,11-7-74,FSc,15-8-94,A,C
+47,Syed Ghazi Gondal,Farooq Abid Gondal,House No. 120 Street #  0 Eid gha Mansehra,13-3-76,F.Sc.,19-8-94,A,C
+48,Maryyum Haqqie,M. Safi Haqqie,Ho. #  434 s#  96 Hayata Abad psh,13-12-76,Fsc,22-8-94,A,C
+49,Najum Zarar Satti,Choudhary Atif Satti,house no. 749 s#  91 Jamurd  town Peshawar,15-12-76,F.Sc.,25-8-94,A,C
+50,Fazal Abdul Najeeb,Abdul Najeeb Sammi,ho. #  296 St. no. 54 Factory road Mansehra,15-8-76,Fsc,28-8-94,A,C
+51,Sonia Satti,Haroon Satti,Ho. No.610 S No.50  Lane 6 Mall road Psh,18-5-75,A level,3-8-94,A,C
+52,AAmer Chohan,Shams-ul-Islam Bulbul Chohan,H No.925 S No.45  Nai abadi Abbotabad,18-5-75,HSSC,6-8-94,A,C
+53,Shazil Abdul Hannan Baig,Arman Ejaz Baig,Ho. no.239 St. No.8  Pind dadu Haripur,20-2-75,A level,9-8-94,A,C
+54,Rabia Chohan,Syyed Kishwar Chohan,h no.786 st. # 4  Lane 3 Khybar road PESHAWAR,22-10-75,HSSC,12-8-94,A,C
+55,Qudoos Akmal,Akmal Abdullah,House # 100 st. # 99  Daniyaal town Attock,22-10-74,FSc,16-8-94,A,C
+56,Suleman Durrani,Muslim Durrani,H# 415 street no.94  Hayata Abad PSH,24-7-74,A-Level,19-8-94,A,C
+57,Noor Jahan Jaffery,Amjad Jaffery,house #  962 Street #  58 Jamurd  town peshawar,25-3-74,FSc,22-8-94,A,C
+58,Rana Zulqur nain Khattak,Nazar Mujeeb Khattak,House No. 276 St. #  53 Doley shah Mansehra,27-4-76,F.Sc.,26-8-94,A,C
+59,Alina Ch. Usman Ansari,Ch. Usman Ansari,Ho. #  591 s#  48 Lane 6 Mall road psh,27-12-76,Fsc,29-8-94,A,C
+60,Shaheen Zabir,Zabir Jan,house no. 137 St. no. 43 Farooqia Sawat,29-8-76,F.Sc.,3-8-94,A,C
+61,Mumtaz Haseen,Haseen Muzammil,ho. #  452 street #  7 Chandi bazar Mansehra,29-9-76,Fsc,6-8-94,A,C
+62,Kina Alam Sehti,Alam Sehti,Ho. No. 766 S No. 2 Durre Psh,2-5-75,A level,10-8-94,A,C
+63,Karam Illahi Adul Qudoos Haq,Qasim Raza Haq,H No.313 St. No.97  Chittian hattian Abbotabad,3-2-75,HSSC,13-8-94,A,C
+64,Muhammad Osama Baig,Mujeeb Suleman Baig,Ho. no.628 St. No.93  Odean chowk Haripur,5-2-75,A level,16-8-94,A,C
+65,Maheera Syyed Mustansar Chatta,Syyed Mustansar Chatta,h no.942 st. # 56  Jamurd  town PESHAWAR,7-10-75,HSSC,19-8-94,A,C
+66,Ismail Taimor,Taimor Ghazanfar,House # 489 street no.51  Mitran walia Attock,7-7-74,FSc,23-8-94,A,C
+67,Talha Khan,Munir Khan,H# 803 street no.47  Lane 6 Mall road PSH,9-7-74,A-Level,26-8-94,A,C
+68,Firdous Amjad Kazmi,Amjad Kazmi,house #  118 St. #  42 Hayata Abad peshawar,10-4-74,FSc,29-8-94,A,C
+69,Babar Khan,Safi Tabraiz Khan,h#  432 s#  5 Khumar road Attock,12-12-74,A-Level,3-8-94,A,C
+70,Maria Minhas,Nawabzada Zulqur nain Minhas,Ho. #  979 Street No. 1 Durre psh,12-1-76,Fsc,7-8-94,A,C
+71,Shehzad Ajab,Ajab Sammi,house no. 294 street #  96 City Road Sawat,14-9-76,F.Sc.,10-8-94,A,C
+72,Saeed Sajid,Sajid Abdul Ahad,ho. #  608 S No. 59 Kusar coloney Mansehra,14-5-76,Fsc,13-8-94,A,C
+73,Riffat Shams Awan,Shams Awan,Ho. No. 155 S#  55 Khybar road Psh,16-6-75,A level,17-8-94,A,C
+74,Abdul Mannan Abdus Sattar Haq,Akmal Usman Haq,H No.469 St. No.50  Bunkhar gali Abbotabad,17-2-75,HSSC,20-8-94,A,C
+75,Khurshid Awan,Syed Kishwar Awan,Ho. no.784 s no.45  Lane 6 Mall road Psh,19-11-75,A level,23-8-94,A,C
+76,Firdous Chatta,Muhammad Abdullah Chatta,h no.330 s no.8  Hayata Abad PESHAWAR,21-11-75,HSSC,26-8-94,A,C
+77,Mustamsir Haseeb,Haseeb Nabeel,House # 645 street no.4  Lakhan Attock,21-7-74,FSc,1-8-94,A,C
+78,Muhammad Najum Namani,Saaleh Namani,H# 960 St. # 99  Durre PSH,23-4-74,A-Level,4-8-94,A,C
+79,Saalia Kazmi,Hussain Sammi Kazmi,house # 506 St. # 94  Malik abad Hasanabdal,23-4-74,FSc,7-8-94,A,C
+80,Taimor Najum Qureshi,Usman Abuzar Qureshi,h#  821 Street No. 58 Nai abadi Attock,26-1-74,A-Level,10-8-94,A,C
+81,Eman Kazmi,Mouhammed Mustafa Kazmi,Ho. #  135 street #  53 Khybar road psh,26-9-76,Fsc,14-8-94,A,C
+82,Rehan Osama,Osama Muzammil,house no. 682 street #  48 Koral Sawat,28-9-76,F.Sc.,17-8-94,A,C
+83,Masroor Shabi,Shabi Naeem,ho. #  996 S#  44 Daniyaal town Mansehra,28-6-76,Fsc,20-8-94,A,C
+84,Afsheen Niazi,Jabir Niazi,House No. 311 St. No. 7 Hayata Abad Peshawar,1-2-76,F.Sc.,23-8-94,A,C
+85,Momd. Mazhar Sherazi,Zubair Baqir Sherazi,H No. 858 Street #  2 Byaar Abbotabad,1-3-75,HSSC,27-8-94,A,C
+86,Rehan Zaidi,Qudoos Kareem Zaidi,Ho. no.172 s no.98  Doley shah Haripur,4-11-75,A level,1-8-94,A,C
+87,Faiqa Rana Qutab Khanzada,Rana Qutab Khanzada,h no.487 street no.61  Lane 6 Mall road PESHAWAR,6-7-75,HSSC,4-8-94,A,C
+88,Ayyaz Mujeeb,Mujeeb Naeem,Ho. No.801 St. no.56  Farooqia Abbotabad,6-8-75,A level,7-8-94,A,C
+89,Agha AAmer Kharasani,Kaleem Kharasani,H# 348 St. # 52  Khybar road PSH,8-4-74,A-Level,11-8-94,A,C
+90,Sultana Masroor Hussaini,Masroor Hussaini,house # 662 Street No.47  Durre peshawar,8-1-74,FSc,14-8-94,A,C
+91,Masud Sattar Laghari,Yaar Muhammad Arsalan Laghari,h# 977 Street No.10  Chittian hattian Attock,10-1-74,A-Level,17-8-94,A,C
+92,Sunera Hussaini,Raja Rahat Hussaini,Ho. #  524 street #  5 Bara market psh,11-9-76,Fsc,21-8-94,A,C
+93,Aslam Rahmat,Rahmat Moeen,house no. 838 S#  1 Farman block Sawat,13-6-76,F.Sc.,24-8-94,A,C
+94,Rahid Rafi,Rafi Abdur Rasheed,ho. #  153 S#  96 Mitran walia Mansehra,13-6-76,Fsc,27-8-94,A,C
+95,Haleema Haque,Abdul Hannan Haque,House No. 699 Street #  59 Lane 6 Mall road Peshawar,15-3-76,F.Sc.,1-8-94,A,C
+96,Hafiz Yosaf Butt,Zamir Ajab Butt,H No. 14 s no. 55 Ghosia masjid chwok Abbotabad,15-11-75,HSSC,5-8-94,A,C
+97,Rahat Safi Zaidi,Ibraheem Muazzam Zaidi,Ho. no. 329 s no. 50 Kamalia Haripur,17-11-75,A level,8-8-94,A,C
+98,Kalsoom Butt,Rana Talha Butt,h no.875 St. no.45  Durre PESHAWAR,20-8-75,HSSC,11-8-94,A,C
+99,Kabir Firdous,Firdous Ejaz,Ho. No.190 St. # 9  City Road Abbotabad,20-4-75,A level,14-8-94,A,C
+100,Shuja Taimor Kharasani,Sahir Kharasani,H# 504 S No.4  Bara market PSH,22-5-74,A-Level,18-8-94,A,C
+101,Jameela Ansary,Kabir Ansary,house # 51 Street No.99  Khybar road peshawar,22-1-74,FSc,21-8-94,A,C
+102,Sh. Alam Kharasani,Shariq Malik Kharasani,h# 365 st. # 63  Bunkhar gali Attock,24-10-74,A-Level,24-8-94,A,C
+103,Zameer Bhatti,Mohammed Sheharyar Bhatti,House #  680 st. #  58 Lane 6 Mall road peshawar,25-10-74,FSc,27-8-94,A,C
+104,Rahat Iffan,Iffan Rai,house no. 227 S#  53 Muzafar shah Sawat,27-6-76,F.Sc.,2-8-94,A,C
+105,Haseeb Sultan,Sultan Baqir,ho. #  541 Street #  49 Lakhan Mansehra,27-3-76,Fsc,5-8-94,A,C
+106,Noor Jahan Shah,Zubair Shah,House No. 856 Street #  12 Durre Peshawar,29-3-76,F.Sc.,8-8-94,A,C
+107,Qutab-ud-Din Pasha,Barkat Muaz Pasha,H No. 170 s#  7 Mandi Abbotabad,29-12-75,HSSC,12-8-94,A,C
+108,Mohammed Khurram Shah,Mohammad Farzan Shah,Ho. no. 717 St. no. 3 Bara market Psh,2-8-75,A level,15-8-94,A,C
+109,Abida Butt,Sheik Abdul Haseeb Butt,h no.31 St. # 98  Khybar road PESHAWAR,5-4-75,HSSC,18-8-94,A,C
+110,Muamar Furqan,Furqan Kaleem,Ho. No.346 S No.61  Koral Abbotabad,5-5-75,A level,21-8-94,A,C
+111,Qutab-ud-Din Amjad Durrani,Sohail Durrani,H# 893 Street No.56  Officers coloney PSH,7-1-74,A-Level,25-8-94,A,C
+112,Afeera Ansary,Yaar Muhammad Ansary,house # 207 st. # 52  Bara market peshawar,7-10-74,FSc,28-8-94,A,C
+113,Abdus Sattar Gondal,Zaran Ibrahim Gondal,h# 522 st. # 47  Byaar Attock,9-10-74,A-Level,2-8-94,A,C
+114,Zulqur nain Rabbi Ansary,Choudhary Wajid Ansary,House # 68 S# 10  Durre peshawar,9-6-74,FSc,5-8-94,A,C
+115,Zamir Najeeb,Najeeb Rasheed,house no. 383 Street #  6 kurang nala Sawat,12-3-76,F.Sc.,9-8-94,A,C
+116,Amjad Tipu,Tipu Karam Illahi,ho. #  697 Street #  1 Chan chirag Mansehra,12-3-76,Fsc,12-8-94,A,C
+117,Kaneez Satti,Zamir Satti,House No. 244 s#  64 Khybar road Peshawar,14-12-76,F.Sc.,15-8-94,A,C
+118,Faisal Akram Chohan,Bakht Masud Chohan,Ho. #  559 St. no. 60 Saidpur road Sawat,14-8-76,Fsc,18-8-94,A,C
+119,Sheikh Fakhir Shah,Sheikh Talha Shah,Ho. no. 873 St. no. 55 Officers coloney Psh,16-8-75,A level,22-8-94,A,C
+120,Adila Aga Pervaiz Chohan,Aga Pervaiz Chohan,h no. 420 S No. 50 Bara market PESHAWAR,18-5-75,HSSC,25-8-94,A,C
+121,Obaid Sageer,Sageer Shahroze,Ho. No.734 Street No.14  Farman block Abbotabad,19-1-75,A level,28-8-94,A,C
+122,Sikandar Durrani,Zakir Durrani,H# 49 St. No.9  Air port coloney PSH,21-2-74,A-Level,3-8-94,A,C
+123,Nafisa Jaffery,Shariq Jameel Jaffery,house # 363 st. # 4  Deinga Hasanabdal,21-10-74,FSc,6-8-94,A,C
+124,Jan Moeen Gondal,Muneer Bulbul Gondal,h# 910 S# 0  Ghosia masjid chwok Attock,23-6-74,A-Level,9-8-94,A,C
+125,Mohammed Babar Ansari,Sahibzada Rai Ansari,House # 225 street no.63  Khybar road peshawar,23-7-74,FSc,12-8-94,A,C
+126,Abdul Qadeer Shaheen,Shaheen Muamar,house no.539 Street # 58  Zikria Sawat,25-3-76,F.Sc.,16-8-94,A,C
+127,Hafiz Kalim Haqqie,Rizwan Haqqie,ho. #  86 s#  53 Officers coloney psh,26-12-76,Fsc,19-8-94,A,C
+128,Huda Sehti,Barkat Sehti,House No. 400 s#  49 Bara market Peshawar,28-12-76,F.Sc.,22-8-94,A,C
+129,Nawabzada Kashif Haqqie,Yosaf Ahmad Haqqie,Ho. #  715 St. no. 12 Illyas abad Sawat,28-8-76,Fsc,25-8-94,A,C
+130,Masroor Baig,Syyed Abdul Haseeb Baig,Ho. no. 261 S No. 7 Air port coloney Psh,1-5-75,A level,29-8-94,A,C
+131,Moeena Chohan,Muhammad Rahid Chohan,h no. 576 S No. 3 Officers coloney PESHAWAR,3-5-75,HSSC,3-8-94,A,C
+132,Qasim Abdur Rasheed,Abdur Rasheed Fakhar,Ho. No. 891 St. No. 98 Muzafar shah Abbotabad,3-2-75,A level,6-8-94,A,C
+133,Rana Siraj Khan,Jabbar Khan,H No.437 st. # 61  Khybar road PESHAWAR,6-10-75,HSSC,9-8-94,A,C
+134,Rozina Jaffery,Zaran Hayyat Jaffery,house # 752 s no.57  Shehar bazar Hasanabdal,6-11-74,FSc,13-8-94,A,C
+135,Zeeshan Wajid Khan,AAdil Raza Khan,h# 66 street no.52  Mandi Attock,8-7-74,A-Level,16-8-94,A,C
+136,Rasheed Ansari,M. Rasheed Ansari,House # 613 Street # 15  Bara market peshawar,8-3-74,FSc,19-8-94,A,C
+137,Danish Imran,Imran Karam,house no.927 St. # 11  Jamia masjid chowk Sawat,10-4-76,F.Sc.,23-8-94,A,C
+138,Zishan Tufail Minhas,Mahtab Minhas,ho. #  242 s#  6 Air port coloney psh,11-12-76,Fsc,26-8-94,A,C
+139,Farheen Sehti,Viqar-ul-Islam Sehti,House No. 789 street #  1 Officers coloney Peshawar,13-9-76,F.Sc.,29-8-94,A,C
+140,Mouhammad Sarwar Haq,Osman Zameer Haq,Ho. #  103 street #  65 Saat meel Sawat,13-9-76,Fsc,3-8-94,A,C
+141,Haseeb Sahir Sehti,Momd. Pervaiz Sehti,Ho. no. 418 S No. 60 Afridi block Psh,15-5-75,A level,7-8-94,A,C
+142,Alina Abdul Mannan,Abdul Mannan Abdul Qadeer,h no. 732 St. No. 55 Shah malung Noshera,17-2-75,HSSC,10-8-94,A,C
+143,Adil Ubaid,Ubaid Bulbul,Ho. No. 279 St. No. 50 kurang nala Abbotabad,17-2-75,A level,13-8-94,A,C
+144,AAdil Shujaat Chatta,Shahid Chatta,H No.594 s no.14  Bara market PESHAWAR,20-11-75,HSSC,16-8-94,A,C
+145,Rabia Muneer Waqas Kazmi,Muneer Waqas Kazmi,house # 908 street no.9  Akbar masjid Hasanabdal,20-7-74,FSc,20-8-94,A,C
+146,Husain Khan,Furqan Kamran Khan,h# 455 street no.4  Main workshop Attock,22-7-74,A-Level,23-8-94,A,C
+147,Amjad Kazmi,Chodhary Muamar Kazmi,House # 769 St. # 0  Officers coloney peshawar,22-4-74,FSc,26-8-94,A,C
+148,Nimra Shahzor,Shahzor Rizwan,H# 84 s# 63  Surahi bazar Hasanabdal,24-12-74,A-Level,29-8-94,A,C
+149,Anayyat Minhas,Sana Ullah Minhas,ho. # 630 Street No.58  Afridi block psh,24-1-76,Fsc,4-8-94,A,C
+150,Malika Niazi,Yousaf Niazi,House No. 945 street #  54 Air port coloney Peshawar,27-9-76,F.Sc.,7-8-94,A,C
+151,Kishwar Haq,Tipo Abdul Qadir Haq,Ho. #  260 S No. 17 Deinga Sawat,27-5-76,Fsc,10-8-94,A,C
+152,Mohammad Abdul Mujeeb Awan,Sh. Rahid Awan,house no. 806 S#  12 Bara market Peshawar,29-6-76,F.Sc.,13-8-94,A,C
+153,Sumiyya Kalim,Kalim Hamid,h no. 121 St. No. 8 Park road Noshera,2-2-75,HSSC,17-8-94,A,C
+154,Rehan Rehmat,Rehmat Jabbar,Ho. No. 435 s no. 3 Zikria Abbotabad,2-11-75,A level,20-8-94,A,C
+155,Agha Khurram Khanzada,Nazar Khanzada,H No. 982 s no. 66 Officers coloney PESHAWAR,4-11-75,HSSC,23-8-94,A,C
+156,Iman Tipu Sana Ullah Usmani,Tipu Sana Ullah Usmani,house # 296 street no.62  Taj abad Hasanabdal,5-7-74,FSc,27-8-94,A,C
+157,Syed Shakir Ismaili,Jan Baqir Ismaili,h# 611 St. # 57  Nizam pur Attock,7-4-74,A-Level,1-8-94,A,C
+158,Tufail Hussaini,Mouhammad Arif Hussaini,House # 158 St. # 52  Air port coloney peshawar,7-4-74,FSc,4-8-94,A,C
+159,Saba Osama,Osama Alam,H# 472 Street No.16  Biyaal Hasanabdal,9-1-74,A-Level,7-8-94,A,C
+160,Ayyaz Abdul Mannan,Abdul Mannan Sameer,ho. # 787 street # 11  Karimabad Mansehra,9-9-76,Fsc,11-8-94,A,C
+161,Kishwar Haque,Mujeeb Haque,House No.101 street # 6  Afridi block Peshawar,11-9-76,F.Sc.,14-8-94,A,C
+162,Osman Paracha,Emmad-ud-Din Zulfiqar Paracha,Ho. #  648 S#  1 Shehar bazar Sawat,12-6-76,Fsc,17-8-94,A,C
+163,Choudhary Sheharyar Zaidi,Mohammad AAmer Zaidi,house no. 962 St. No. 65 Officers coloney Peshawar,14-2-76,F.Sc.,20-8-94,A,C
+164,Hajira Butt,Hafiz Mahtab Butt,h no. 277 Street #  60 University coloney PESHAWAR,16-3-75,HSSC,24-8-94,A,C
+165,Mukhtar Hussain,Hussain Farooq,Ho. No. 824 s no. 55 Jamia masjid chowk Abbotabad,16-11-75,A level,27-8-94,A,C
+166,Muzammil Husain Kharasani,Safi Kharasani,H No. 138 St. no. 19 Air port coloney PESHAWAR,18-8-75,HSSC,1-8-94,A,C
+167,Jaleela Usmani,Atif Muzammil Usmani,Ho. no. 453 St. no. 14 Afangi block Noshera,18-8-75,A level,4-8-94,A,C
+168,Shams-ul-Islam Kharasani,Sammi Tipo Kharasani,h# 999 St. # 9  Mutian wala Attock,21-4-74,A-Level,8-8-94,A,C
+169,Noor Inayyat Bhatti,Choudhary Abdul kareem Bhatti,House # 314 Street No.5  Afridi block peshawar,21-1-74,FSc,11-8-94,A,C
+170,Samman Rashid,Rashid Shams-ul-Islam,H# 628 street # 68  Shah malung Hasanabdal,23-9-74,A-Level,14-8-94,A,C
+171,Abdur Rahim Bhatti,Arman Bhatti,ho. # 175 st. # 63  Afindi road psh,23-10-76,Fsc,18-8-94,A,C
+172,Azra Kishwar Haque,Kishwar Haque,House No.490 S# 59  University coloney Peshawar,25-6-76,F.Sc.,21-8-94,A,C
+173,Muneer Shakeel Pasha,Raza Sahir Pasha,Ho. #  804 St. No. 54 Akbar masjid Sawat,26-2-76,Fsc,24-8-94,A,C
+174,Muslim Haque,Sheik Faisal Haque,house no. 351 Street #  17 Air port coloney Peshawar,28-3-76,F.Sc.,27-8-94,A,C
+175,Afsheen Adnan,Adnan Aun,h no. 665 s no. 13 Jalabad Noshera,1-11-75,HSSC,2-8-94,A,C
+176,Rahat Daniyal,Daniyal Nazar,Ho. No. 980 St. no. 8 Sherazia coloney Abbotabad,1-8-75,A level,5-8-94,A,C
+177,Ramzan Butt,Usman Butt,H No. 294 St. no. 3 Afridi block PESHAWAR,3-8-75,HSSC,8-8-94,A,C
+178,Fariha Ansary,Jan Yaar Muhammad Ansary,Ho. no. 841 St. #  66 Sukkhan abad Noshera,3-4-75,A level,11-8-94,A,C
+179,Nazir Tabraiz Kharasani,Muzammil Muaz Kharasani,h# 156 Street No.62  Dhamiyal Attock,6-1-74,A-Level,15-8-94,A,C
+180,Mirza Mustafa Ansary,Mirza Aslam Ansary,House # 470 Street No.57  University coloney peshawar,6-1-74,FSc,18-8-94,A,C
+181,Anjum Qamar,Qamar Jabir,H# 17 st. # 20  Park road Hasanabdal,8-10-74,A-Level,21-8-94,A,C
+182,M. Abdur Rasheed Bhatti,Mujeeb Bhatti,house # 331 S# 16  Air port coloney peshawar,8-6-74,FSc,24-8-94,A,C
+183,Nida Satti,Mustansar Satti,House No.646 S# 11  Afindi road Peshawar,10-6-76,F.Sc.,28-8-94,A,C
+184,Mouhammed Aftab Pasha,AAmer Furqan Pasha,Ho. # 192 Street # 6  Taj abad Sawat,10-3-76,Fsc,2-8-94,A,C
+185,Mustamsir Shah,Syyed Munir Shah,house no. 507 s no. 70 Afridi block Peshawar,13-11-76,F.Sc.,5-8-94,A,C
+186,Benazir Rahmat,Rahmat Abdul Malik,h no. 822 s#  65 Jalsa gha Noshera,15-12-75,HSSC,9-8-94,A,C
+187,Zameer Annan,Annan Rafi,Ho. No. 368 St. no. 60 Karnianwala Abbotabad,15-8-75,A level,12-8-94,A,C
+188,Ch. Ajmal Durrani,Zulqur nain Durrani,H No. 683 St. #  56 University coloney PESHAWAR,17-4-75,HSSC,15-8-94,A,C
+189,Kalsoom Abbasi,Sammi Karam Illahi Abbasi,Ho. no. 997 S No. 19 Karkhana road Noshera,17-5-75,A level,18-8-94,A,C
+190,Sheikh Ayyaz Gondal,Ch. Abdul Ahad Gondal,h#  544 Street No. 14 Industrial estate PSH,19-1-74,A-Level,22-8-94,A,C
+191,Zeeshan Ansari,Sahibzada Shams Ansari,House # 859 st. # 10  Afindi road peshawar,20-10-74,FSc,25-8-94,A,C
+192,Nafisa Husain,Husain Osama,H# 173 st. # 5  Bara bazar Hasanabdal,22-10-74,A-Level,28-8-94,A,C
+193,Kaleem Ejaz Haqqie,Kishwar Haqqie,house # 720 S# 68  Afridi block peshawar,22-6-74,FSc,2-8-94,A,C
+194,Atra Satti,Abdullah Satti,House No.34 Street # 63  Industrial estate Peshawar,24-3-76,F.Sc.,6-8-94,A,C
+195,Umer Haqqie,Faisal Nazeer Haqqie,Ho. # 349 Street # 59  Shuakat coloney Sawat,24-3-76,Fsc,9-8-94,A,C
+196,Kabir Osama Baig,Muhammad Saaleh Baig,house no.663 s# 54  University coloney Peshawar,26-12-76,F.Sc.,12-8-94,A,C
+197,Huda Babar,Babar Mazhar,ho. #  210 St. no. 17 Hamdarad road Gilgit,29-8-76,Fsc,15-8-94,A,C
+198,Abdul Qadeer Saleem,Saleem Kamran,Ho. No. 525 street #  13 Dak ghar Abbotabad,29-9-75,A level,19-8-94,A,C
+199,Rana Muneer Durrani,Mustafa Durrani,H No. 839 S No. 8 Afindi road PESHAWAR,2-5-75,HSSC,22-8-94,A,C
+200,Asia Muzammil Baber Jaffery,Muzammil Baber Jaffery,Ho. no. 386 Street No. 71  Noshera,2-1-75,A level,25-8-94,A,C
+201,Ch. Abdus Sammi Khan,Nawabzada Naeem Khan,h#  700 St. No. 67 Lane 3 Khybar road PSH,4-2-74,A-Level,29-8-94,A,C
+202,Muamar Mujtaba Ansari,M. Jabir Ansari,House #  15 st. #  62 Industrial estate peshawar,4-10-74,FSc,3-8-94,A,C
+203,Shehnaz Danish,Danish Masroor,H# 561 street no.57  Jalabad Hasanabdal,7-7-74,A-Level,6-8-94,A,C
+204,Muamar Ansari,AAqil Ansari,house # 876 street no.21  University coloney peshawar,7-7-74,FSc,9-8-94,A,C
+205,Aneesa Sehti,Ghazanfar Hameed Sehti,House No.191 Street # 16  Lohi pura Gilgit,9-3-76,F.Sc.,13-8-94,A,C
+206,Ali Ali Haqqie,Munir Abdul Suleh Haqqie,Ho. # 737 s# 11  Pakistan hostel Sawat,9-12-76,Fsc,16-8-94,A,C
+207,Sheik Danish Sehti,Sh. Tabraiz Sehti,house no.52 s# 7  Afindi road Peshawar,11-12-76,F.Sc.,19-8-94,A,C
+208,Alina Najeeb,Najeeb Rafi,ho. #  366 street #  70 Dehri Gilgit,14-9-76,Fsc,22-8-94,A,C
+209,Kishwar Adnan,Adnan Zulfiqar,Ho. No. 913 S No. 65 Hospital road Abbotabad,14-5-75,A level,26-8-94,A,C
+210,Zulqur nain Salim,Salim Yaar Muhammad,H No. 227 S No. 61 Cantt. road Haripur,16-5-75,HSSC,29-8-94,A,C
+211,Kishwar Kazmi,Rahat Kazmi,Ho. no. 542 St. No. 56 Afindi road Psh,16-2-75,A level,3-8-94,A,C
+212,Murtaza Waqas Niazi,Wajid Abdul Mannan Niazi,h no. 89 st. #  19 Taj abad Abbotabad,18-10-75,HSSC,6-8-94,A,C
+213,Momd. Salim Ismaili,Tabraiz Sattar Ismaili,House #  403 s no. 14 Shakrial Mardan,18-11-74,FSc,10-8-94,A,C
+214,Nazma Momd. Abdul Hannan Niazi,Momd. Abdul Hannan Niazi,H# 718 street no.10  Industrial estate PSH,21-7-74,A-Level,13-8-94,A,C
+215,Hamid Kishwar,Kishwar Zulfiqar,house # 32 Street # 73  Karnianwala Attock,21-3-74,FSc,16-8-94,A,C
+216,Sana Ullah Awan,Ibraheem Awan,h# 579 St. # 68  University coloney PSH,23-4-74,A-Level,19-8-94,A,C
+217,Sahibzada Furqan Haqq,Talha Haqq,Ho. # 893 s# 64  Lane 3 Khybar road psh,23-12-76,Fsc,23-8-94,A,C
+218,Ubaid Sherazi,Ijaz Mehmood Sherazi,house no.208 street # 59  Garrizon Mansehra,25-9-76,F.Sc.,26-8-94,A,C
+219,Moeena Namani,Rana Sahir Namani,ho. # 755 street # 22  Afindi road psh,27-9-76,Fsc,29-8-94,A,C
+220,Shahid Abdul Mannan,Abdul Mannan Kabir,Ho. No. 69 S No. 18 Pind dadu Abbotabad,28-5-75,A level,4-8-94,A,C
+221,Shahzor Usman,Usman Shariq,H No. 384 St. No. 13 Bara qabrustan Haripur,1-2-75,HSSC,7-8-94,A,C
+222,Viqar-un-Nisa Sheharyar Khanzada,Sheharyar Khanzada,Ho. no. 930 St. No. 8 Industrial estate Psh,1-2-75,A level,10-8-94,A,C
+223,Chodhary Muamar Qureshi,Rai Affan Qureshi,h no. 245 s no. 72 Shuakat coloney Abbotabad,3-11-75,HSSC,13-8-94,A,C
+224,Zabir Ismaili,Mirza Husain Ismaili,House #  559 street no. 67 Jamurd  town peshawar,3-7-74,FSc,17-8-94,A,C
+225,Jameela Hussaini,Mouhammad Zubair Hussaini,H#  106 street no. 62 Lane 3 Khybar road PSH,5-7-74,A-Level,20-8-94,A,C
+226,Mustansar Sageer,Sageer Qudoos,house # 421 St. # 58  Dak ghar Attock,6-4-74,FSc,23-8-94,A,C
+227,Shams Paracha,Farzan Paracha,h# 735 s# 21  Afindi road PSH,8-12-74,A-Level,26-8-94,A,C
+228,Daud Ghulam Yasin Haqq,Abdul Haseeb Haqq,Ho. # 282 Street No.16  Jamurd  town psh,8-1-76,Fsc,1-8-94,A,C
+229,Tipo Rasheed Paracha,Kalim Azam Paracha,house no.596 street # 11  Mujahid block Mansehra,10-9-76,F.Sc.,4-8-94,A,C
+230,Maha Zaidi,Hafiz Fakhar Zaidi,ho. # 911 S# 75  Industrial estate psh,12-6-76,Fsc,7-8-94,A,C
+231,Muslim Kamal,Kamal Yaar Muhammad,House No.225 S# 70  Jalabad Sawat,12-6-76,F.Sc.,10-8-94,A,C
+232,Imtiaz Rehmat,Rehmat Zaran,H No. 772 St. No. 65 Kamra chowk Haripur,15-2-75,HSSC,14-8-94,A,C
+233,Rida Wajid Khanzada,Wajid Khanzada,Ho. no. 87 s no. 61 Lane 3 Khybar road Psh,15-11-75,A level,17-8-94,A,C
+234,Raja Haseen Usmani,Rasheed Azhar Usmani,h no. 401 street no. 24 Pakistan hostel Abbotabad,17-7-75,HSSC,20-8-94,A,C
+235,Sameer Tanveer Kharasani,Mohammed Abdul Rafay Kharasani,House #  948 St. no. 19 Hayata Abad peshawar,17-8-74,FSc,24-8-94,A,C
+236,Nimra Hussaini,Shk. Zameer Hussaini,H#  262 St. #  15 Jamurd  town PSH,19-4-74,A-Level,27-8-94,A,C
+237,Annan Anwer,Anwer Ibraheem,house #  577 s#  10 Hospital road Attock,19-12-74,FSc,1-8-94,A,C
+238,Syed Abdur Raziq Hussaini,Talha Hussaini,h# 124 Street No.73  Industrial estate PSH,22-1-74,A-Level,4-8-94,A,C
+239,Daud Hameed Haque,Ijaz Saleem Haque,Ho. # 438 street # 69  Kusar coloney Sawat,22-9-76,Fsc,8-8-94,A,C
+240,Nawabzada Abdul Suleh Pasha,Shahroze Muzammil Pasha,house no.753 S# 64  Bhatta Mansehra,24-6-76,F.Sc.,11-8-94,A,C
+241,Suryya Aga Bulbul Haque,Aga Bulbul Haque,ho. # 299 S# 59  Lane 3 Khybar road psh,26-6-76,Fsc,14-8-94,A,C
+242,Mustafa Anwar,Anwar Jibran,House No.614 St. No.23  Jalsa gha Sawat,26-2-76,F.Sc.,17-8-94,A,C
+243,Nazir Baber,Baber Muneer,H No. 928 s no. 18 Sihaal Haripur,29-11-75,HSSC,21-8-94,A,C
+244,Sanam Butt,Rai Butt,Ho. no. 475 s no. 13 Jamurd  town Psh,29-11-75,A level,24-8-94,A,C
+245,Jamil Ansary,Muamar Shaukat Ansary,h no. 790 St. no. 76 Factory road Abbotabad,2-8-75,HSSC,27-8-94,A,C
+246,Athar Tanvir Kharasani,Ch. Farman Kharasani,Ho. No. 104 St. #  72 Industrial estate Psh,2-4-75,A level,1-8-94,A,C
+247,Kausar Ansary,Mirza Noor Ansary,H#  651 St. #  67 Hayata Abad PSH,4-4-74,A-Level,5-8-94,A,C
+248,Iffan Kamran,Kamran Farzan,house #  965 Street No. 62 Pind dadu Attock,4-1-74,FSc,8-8-94,A,C
+249,Sultan Salim Bhatti,Abdul Haseeb Bhatti,h# 280 street # 26  Lane 3 Khybar road PSH,7-9-74,A-Level,11-8-94,A,C
+250,Ejaz Hamid Satti,Kalim Najum Satti,Ho. # 594 st. # 21  Daniyaal town Sawat,7-10-76,Fsc,15-8-94,A,C
+251,Aun Pasha,Fakhar Yaar Muhammad Pasha,house no.141 S# 16  Haider road Mansehra,9-6-76,F.Sc.,18-8-94,A,C
+252,Sara Mohammad Jabbar Shah,Mohammad Jabbar Shah,ho. # 456 St. No.12  Jamurd  town psh,11-2-76,Fsc,21-8-94,A,C
+253,Soneel Shahzor,Shahzor Rayyan,House No.770 Street # 75  Buliyan wali Sawat,11-3-76,F.Sc.,24-8-94,A,C
+254,Latif Shah,AAdil Shah,H No.317 s no.70  Lane 6 Mall road PESHAWAR,13-11-75,HSSC,28-8-94,A,C
+255,Batool Butt,Rasheed Butt,Ho. no. 631 St. no. 66 Hayata Abad Psh,14-8-75,A level,2-8-94,A,C
+256,Muneer Nadeem Abbasi,Karam Faisal Abbasi,h no. 946 St. no. 61 Chandi bazar Abbotabad,16-8-75,HSSC,5-8-94,A,C
+257,Shuja Durrani,Sahibzada Zameer Durrani,Ho. No. 492 St. #  24 Lane 3 Khybar road Psh,16-4-75,A level,8-8-94,A,C
+258,Mahreen Mohammed Viqar-ul-Islam Ansary,Mohammed Viqar-ul-Islam Ansary,H#  807 Street No. 20 Lane 6 Mall road PSH,18-1-74,A-Level,12-8-94,A,C
+259,Qaisar Baqir,Baqir Azhar,house #  122 Street No. 15 Odean chowk Attock,18-1-74,FSc,15-8-94,A,C
+260,Shaheen Ansary,Pervaiz Ansary,h#  668 st. #  10 Jamurd  town PSH,20-10-74,A-Level,18-8-94,A,C
+261,Amra Satti,Shahroze Abdul Malik Satti,House # 983 S# 74  Lohi pura Hasanabdal,21-6-74,FSc,21-8-94,A,C
+262,Yawar Haqqie,Bulbul Karam Illahi Haqqie,house no.297 street no.69  Chand mari Mansehra,23-7-76,F.Sc.,25-8-94,A,C
+263,AAmina Satti,Sheikh Shahid Satti,ho. # 844 Street # 64  Hayata Abad psh,25-3-76,Fsc,28-8-94,A,C
+264,Salim Emmad-ud-Din,Emmad-ud-Din Munir,House No.158 s no.27  Khumar road Sawat,25-11-76,F.Sc.,2-8-94,A,C
+265,Sheik Zameer Shah,Imran Shah,Ho. # 473 s# 23  Lane 3 Khybar road psh,27-12-76,Fsc,5-8-94,A,C
+266,Sadia Muamar Chohan,Muamar Chohan,Ho. no.20 St. no.18  Lane 6 Mall road Psh,27-8-75,A level,9-8-94,A,C
+267,Sh. Kareem Jaffery,Rizwan Qudoos Jaffery,h no. 334 S No. 13 Kusar coloney Abbotabad,1-5-75,HSSC,12-8-94,A,C
+268,Hamid Durrani,M. Noor Durrani,Ho. No. 649 S No. 77 Jamurd  town Psh,1-5-75,A level,15-8-94,A,C
+269,Asiya Adnan,Adnan Yousaf,H#  963 Street No. 72 Bunkhar gali Hasanabdal,3-1-74,A-Level,19-8-94,A,C
+270,Arman Atif,Atif Abdul Mujeeb,house #  510 st. #  67 Eid gha Attock,3-10-74,FSc,22-8-94,A,C
+271,Hussain Ansari,Abid Ansari,h#  824 st. #  63 Hayata Abad PSH,5-10-74,A-Level,25-8-94,A,C
+272,Nida Khattak,Fakhar Abdul Ahad Khattak,House #  139 street no. 26 Noorpur Hasanabdal,5-7-74,FSc,28-8-94,A,C
+273,M. Muazzam Haqqie,Momd. Jabbar Haqqie,house no.686 Street # 21  Durre Peshawar,8-3-76,F.Sc.,3-8-94,A,C
+274,Badar Sehti,Sheikh Sameer Sehti,ho. # 0 Street # 17  Lane 6 Mall road psh,10-3-76,Fsc,6-8-94,A,C
+275,Najam Obaid,Obaid Najum,House No.315 s# 12  Nai abadi Sawat,10-12-76,F.Sc.,9-8-94,A,C
+276,Umar Abdul Suleh Baig,Emmad-ud-Din Baig,Ho. # 861 St. no.75  Jamurd  town psh,12-8-76,Fsc,12-8-94,A,C
+277,Hadiqa Chatta,Munnawar Chatta,Ho. no.176 street # 71  Durre Psh,12-9-75,A level,16-8-94,A,C
+278,Haroon Baig,Mahtab Sohail Baig,h no. 490 S No. 66 Daniyaal town Abbotabad,15-5-75,HSSC,19-8-94,A,C
+279,Abdul Hameed Aqeel Khan,Chodhary Viqar-ul-Islam Khan,Ho. No. 37 Street No. 29 Hayata Abad Psh,15-1-75,A level,22-8-94,A,C
+280,Amber Niazi,Momd. Mujeeb Niazi,H No. 352 St. No. 24 Jamurd  town PESHAWAR,17-2-75,HSSC,25-8-94,A,C
+281,Ajmal Yasin,Yasin Emmad-ud-Din,house #  666 st. #  20 Doley shah Attock,17-10-74,FSc,29-8-94,A,C
+282,Yawar Awan,AAmer Awan,h#  213 street no. 15 Lane 6 Mall road PSH,19-7-74,A-Level,3-8-94,A,C
+283,Hira Haqq,Aftab Bakht Haqq,House #  527 street no. 78 Farooqia Hasanabdal,19-7-74,FSc,6-8-94,A,C
+284,Nawabzada Umar Kiyyani,Abdul Malik Annan Kiyyani,house no.842 Street # 74  Kotlia Mansehra,22-3-76,F.Sc.,10-8-94,A,C
+285,Kashaf Namani,Hafiz Zil-e-Ali Namani,ho. # 157 s# 69  Durre psh,24-12-76,Fsc,13-8-94,A,C
+286,Zabir Qamar,Qamar Atif,House No.703 s# 64  Chittian hattian Sawat,24-12-76,F.Sc.,16-8-94,A,C
+287,Mohammad Abdul Mannan Qureshi,Abdul Qadir Qureshi,Ho. # 18 street # 28  Hayata Abad psh,26-9-76,Fsc,19-8-94,A,C
+288,Naz Khanzada,Abdul kareem Khanzada,Ho. no.332 S No.23  Khybar road Psh,26-5-75,A level,23-8-94,A,C
+289,Inayyat Qureshi,Shaukat Shan Qureshi,h no.879 S# 18  Mitran walia Abbotabad,28-6-75,HSSC,26-8-94,A,C
+290,Rahmat Ghani Ismaili,Mouhammad Jamil Ismaili,Ho. No. 193 St. No. 14 Lane 6 Mall road Psh,2-2-75,A level,29-8-94,A,C
+291,Sadaf Niazi,Shk. Kishwar Niazi,H No. 508 st. #  77 Hayata Abad PESHAWAR,2-10-75,HSSC,3-8-94,A,C
+292,Jibran Abdul Hannan,Abdul Hannan Raza,house #  55 s no. 72 Kamalia Attock,2-11-74,FSc,7-8-94,A,C
+293,Aga Shahid Paracha,Faisal Paracha,h#  369 street no. 68 Durre PSH,4-7-74,A-Level,10-8-94,A,C
+294,Farha Aun Tanvir Haqq,Aun Tanvir Haqq,House #  684 St. #  31 City Road Hasanabdal,4-4-74,FSc,13-8-94,A,C
+295,Mouhammed Pervaiz Paracha,Mazhar Affan Paracha,H#  230 St. #  26 Kusar coloney Attock,6-4-74,A-Level,16-8-94,A,C
+296,Rukhsana Agha Ubaid Namani,Agha Ubaid Namani,ho. # 545 s# 21  Khybar road psh,9-12-76,Fsc,20-8-94,A,C
+297,Wajid Zishan,Zishan Jan,House No.859 street # 17  Bunkhar gali Sawat,9-9-76,F.Sc.,23-8-94,A,C
+298,Obaid Haroon Namani,Arif Namani,Ho. # 406 S No.80  Lane 6 Mall road psh,11-5-76,Fsc,26-8-94,A,C
+299,Tamania Khanzada,Aslam Khanzada,Ho. no.721 S# 75  Bara market Psh,11-6-75,A level,1-8-94,A,C

@@ -1,0 +1,2 @@
+SID,St_Name,Father_Name,Gender,Address,Date of Birth,Reg Date,Reg Status,Degree Status,Last Degree
+4400,Karam Asif,Asif Rohail,0,house no.11 street # 12  Factory road Usman Kot,25-Sep-84,12-Jan-05,T,I,F.Sc
