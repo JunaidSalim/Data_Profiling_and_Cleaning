@@ -38,22 +38,22 @@ The project reads data from various text files related to students' details and 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/student-data-profiling-cpp.git
+   git clone https://github.com/JunaidSalim/Data_Profiling_and_Cleaning.git
    ```
    ```bash
-   cd student-data-profiling-cpp
+   cd Data_Profiling_and_Cleaning
    ```
 
 2. **Compile the Code**:
    Ensure you have a C++ compiler installed. You can use g++:
    ```bash
-   g++ -o student_data_profiling main.cpp
+   g++ -o main main.cpp
    ```
 
 3. **Run the Program**:
    The program reads data from text files stored in a `Data/` directory:
    ```bash
-   ./student_data_profiling
+   ./main
    ```
 
 ## Data Files
